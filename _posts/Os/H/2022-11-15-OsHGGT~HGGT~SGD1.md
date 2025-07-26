@@ -23,6 +23,14 @@ tags: [seed, development, map-based cloning, tolerance, cold tolerance, plant de
     + NA
 
 
+* **MolPhase score**
+    + LOC_Os06g44840.1: 0.0169
+    + LOC_Os06g44840.2: 0.0943
+
+* **MolPhaseResult**
+    + ![LOC_Os06g44840.1](https://ricepsp.github.io/pictures/LOC_Os06g/LOC_Os06g44840.1.png)
+    + ![LOC_Os06g44840.2](https://ricepsp.github.io/pictures/LOC_Os06g/LOC_Os06g44840.2.png)
+
 * **Publication**  
     + [Metabolic redesign of vitamin E biosynthesis in plants for tocotrienol production and increased antioxidant content](http://www.ncbi.nlm.nih.gov/pubmed?term=Metabolic redesign of vitamin E biosynthesis in plants for tocotrienol production and increased antioxidant content%5BTitle%5D), 2003, Nat Biotechnol.
     + [SGD1, a key enzyme in tocopherol biosynthesis, is essential for plant development and cold tolerance in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=SGD1, a key enzyme in tocopherol biosynthesis, is essential for plant development and cold tolerance in rice.%5BTitle%5D), 2017, Plant Sci.

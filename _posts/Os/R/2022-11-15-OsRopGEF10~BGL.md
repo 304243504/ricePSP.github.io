@@ -23,7 +23,15 @@ tags: [leaf, sheath]
     + 67.29
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/A0A0P0WN33/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/A/AF-A0A0P0WN33-F1.png)
+    + ![image](https://ricepsp.github.io/images/A/AF-A0A0P0WN33-F1.png))
+
+* **MolPhase score**
+    + LOC_Os05g38000.1: 0.7725
+    + LOC_Os05g38000.2: 0.0413
+
+* **MolPhaseResult**
+    + ![LOC_Os05g38000.1](https://ricepsp.github.io/pictures/LOC_Os05g/LOC_Os05g38000.1.png)
+    + ![LOC_Os05g38000.2](https://ricepsp.github.io/pictures/LOC_Os05g/LOC_Os05g38000.2.png)
 
 * **Publication**  
     + [The rice bright green leaf bgl locus encodes OsRopGEF10, which activates the development of small cuticular papillae on leaf surfaces](http://www.ncbi.nlm.nih.gov/pubmed?term=The rice bright green leaf bgl locus encodes OsRopGEF10, which activates the development of small cuticular papillae on leaf surfaces%5BTitle%5D), 2011, Plant Mol Biol.

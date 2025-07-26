@@ -25,7 +25,17 @@ tags: [phosphate, transcription factor, jasmonic, jasmonic acid]
     + 76.48
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/A0A0P0WFC8/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/A/AF-A0A0P0WFC8-F1.png)
+    + ![image](https://ricepsp.github.io/images/A/AF-A0A0P0WFC8-F1.png))
+
+* **MolPhase score**
+    + LOC_Os04g54474.1: 0.0891
+    + LOC_Os04g54474.2: 0.024
+    + LOC_Os04g54474.3: 0.024
+
+* **MolPhaseResult**
+    + ![LOC_Os04g54474.1](https://ricepsp.github.io/pictures/LOC_Os04g/LOC_Os04g54474.1.png)
+    + ![LOC_Os04g54474.2](https://ricepsp.github.io/pictures/LOC_Os04g/LOC_Os04g54474.2.png)
+    + ![LOC_Os04g54474.3](https://ricepsp.github.io/pictures/LOC_Os04g/LOC_Os04g54474.3.png)
 
 * **Publication**  
     + [Genome-wide analysis of basic leucine zipper transcription factor families in Arabidopsis thaliana, Oryza sativa and Populus trichocarpa](http://www.ncbi.nlm.nih.gov/pubmed?term=Genome-wide analysis of basic leucine zipper transcription factor families in Arabidopsis thaliana, Oryza sativa and Populus trichocarpa%5BTitle%5D), 2009, Journal of Shanghai University (English Edition).

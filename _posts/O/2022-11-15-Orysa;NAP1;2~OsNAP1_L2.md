@@ -21,7 +21,13 @@ tags:
     + 78.8
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q53WK4/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q5/AF-Q53WK4-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q5/AF-Q53WK4-F1.png))
+
+* **MolPhase score**
+    + LOC_Os05g46230.1: 0.2815
+
+* **MolPhaseResult**
+    + ![LOC_Os05g46230.1](https://ricepsp.github.io/pictures/LOC_Os05g/LOC_Os05g46230.1.png)
 
 * **Publication**  
     + [Interacting proteins and differences in nuclear transport reveal specific functions for the NAP1 family proteins in plants](http://www.ncbi.nlm.nih.gov/pubmed?term=Interacting proteins and differences in nuclear transport reveal specific functions for the NAP1 family proteins in plants%5BTitle%5D), 2005, Plant Physiol.

@@ -23,6 +23,14 @@ tags:
     + NA
 
 
+* **MolPhase score**
+    + LOC_Os02g29150.1: 0.0649
+    + LOC_Os02g29150.2: 0.0121
+
+* **MolPhaseResult**
+    + ![LOC_Os02g29150.1](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g29150.1.png)
+    + ![LOC_Os02g29150.2](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g29150.2.png)
+
 * **Publication**  
     + [NOA1 functions in a temperature-dependent manner to regulate chlorophyll biosynthesis and Rubisco formation in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=NOA1 functions in a temperature-dependent manner to regulate chlorophyll biosynthesis and Rubisco formation in rice%5BTitle%5D), 2011, PLoS One.
 

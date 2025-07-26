@@ -21,6 +21,12 @@ tags:
     + NA
 
 
+* **MolPhase score**
+    + LOC_Os01g50420.1: 0.0275
+
+* **MolPhaseResult**
+    + ![LOC_Os01g50420.1](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g50420.1.png)
+
 * **Publication**  
 
 * **Genbank accession number**  

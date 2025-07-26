@@ -21,7 +21,13 @@ tags: [microspore, sterile, fertility, anther, pollen, sterility, development, m
     + 75.78
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q64MA3/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q64MA3-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q64MA3-F1.png))
+
+* **MolPhase score**
+    + LOC_Os09g35000.1: 0.6607
+
+* **MolPhaseResult**
+    + ![LOC_Os09g35000.1](https://ricepsp.github.io/pictures/LOC_Os09g/LOC_Os09g35000.1.png)
 
 * **Publication**  
     + [The OsGEN-L protein from Oryza sativa possesses Holliday junction resolvase activity as well as 5 '-flap endonuclease activity](http://www.ncbi.nlm.nih.gov/pubmed?term=The OsGEN-L protein from Oryza sativa possesses Holliday junction resolvase activity as well as 5 '-flap endonuclease activity%5BTitle%5D), 2012, J Biochem.

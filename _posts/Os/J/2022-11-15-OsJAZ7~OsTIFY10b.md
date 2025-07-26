@@ -25,7 +25,17 @@ tags:
     + 61.47
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q8H395/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8H395-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8H395-F1.png))
+
+* **MolPhase score**
+    + LOC_Os07g42370.1: 0.699
+    + LOC_Os07g42370.2: 0.699
+    + LOC_Os07g42370.3: 0.0307
+
+* **MolPhaseResult**
+    + ![LOC_Os07g42370.1](https://ricepsp.github.io/pictures/LOC_Os07g/LOC_Os07g42370.1.png)
+    + ![LOC_Os07g42370.2](https://ricepsp.github.io/pictures/LOC_Os07g/LOC_Os07g42370.2.png)
+    + ![LOC_Os07g42370.3](https://ricepsp.github.io/pictures/LOC_Os07g/LOC_Os07g42370.3.png)
 
 * **Publication**  
     + [Identification and expression profiling analysis of TIFY family genes involved in stress and phytohormone responses in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification and expression profiling analysis of TIFY family genes involved in stress and phytohormone responses in rice%5BTitle%5D), 2009, Plant Mol Biol.

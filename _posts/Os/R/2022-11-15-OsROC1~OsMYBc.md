@@ -23,7 +23,15 @@ tags: [leaf, salt, transcription factor, Salt Sensitivity]
     + 61.6
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q69TN6/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q69TN6-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q69TN6-F1.png))
+
+* **MolPhase score**
+    + LOC_Os09g12770.1: 0.0142
+    + LOC_Os09g12770.2: 0.9235
+
+* **MolPhaseResult**
+    + ![LOC_Os09g12770.1](https://ricepsp.github.io/pictures/LOC_Os09g/LOC_Os09g12770.1.png)
+    + ![LOC_Os09g12770.2](https://ricepsp.github.io/pictures/LOC_Os09g/LOC_Os09g12770.2.png)
 
 * **Publication**  
     + [The Indeterminate Domain Protein ROC1 Regulates Chilling Tolerance via Activation of DREB1B/CBF1 in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The Indeterminate Domain Protein ROC1 Regulates Chilling Tolerance via Activation of DREB1B/CBF1 in Rice.%5BTitle%5D), 2016, Int J Mol Sci.

@@ -21,7 +21,13 @@ tags: [meristem, shoot, root apical meristem, root, meiotic, cell cycle, shoot a
     + 94.01
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/P17070/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/P/AF-P17070-F1.png)
+    + ![image](https://ricepsp.github.io/images/P/AF-P17070-F1.png))
+
+* **MolPhase score**
+    + LOC_Os02g56130.1: 0.0207
+
+* **MolPhaseResult**
+    + ![LOC_Os02g56130.1](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g56130.1.png)
 
 * **Publication**  
     + [Characterization of plant proliferating cell nuclear antigen PCNA and flap endonuclease-1 FEN-1, and their distribution in mitotic and meiotic cell cycles](http://www.ncbi.nlm.nih.gov/pubmed?term=Characterization of plant proliferating cell nuclear antigen PCNA and flap endonuclease-1 FEN-1, and their distribution in mitotic and meiotic cell cycles%5BTitle%5D), 2002, The Plant Journal.

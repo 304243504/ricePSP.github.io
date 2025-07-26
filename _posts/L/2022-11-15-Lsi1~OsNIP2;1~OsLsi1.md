@@ -21,7 +21,13 @@ tags: [silicon, root, arsenite, transporter, lateral root, shoot, grain, crown, 
     + 83.11
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6Z2T3/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6Z2T3-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6Z2T3-F1.png))
+
+* **MolPhase score**
+    + LOC_Os02g51110.1: 0.0208
+
+* **MolPhaseResult**
+    + ![LOC_Os02g51110.1](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g51110.1.png)
 
 * **Publication**  
     + [The role of the rice aquaporin Lsi1 in arsenite efflux from roots](http://www.ncbi.nlm.nih.gov/pubmed?term=The role of the rice aquaporin Lsi1 in arsenite efflux from roots%5BTitle%5D), 2010, New Phytol.

@@ -23,7 +23,15 @@ tags: [root, flower, lateral root, leaf shape, spikelet, sheath, palea, grain, r
     + 68.16
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q33DK1/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q3/AF-Q33DK1-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q3/AF-Q33DK1-F1.png))
+
+* **MolPhase score**
+    + LOC_Os11g01130.1: 0.74
+    + LOC_Os11g01130.2: 0.795
+
+* **MolPhaseResult**
+    + ![LOC_Os11g01130.1](https://ricepsp.github.io/pictures/LOC_Os11g/LOC_Os11g01130.1.png)
+    + ![LOC_Os11g01130.2](https://ricepsp.github.io/pictures/LOC_Os11g/LOC_Os11g01130.2.png)
 
 * **Publication**  
     + [The rice narrow leaf2 and narrow leaf3 loci encode WUSCHEL-related homeobox 3A OsWOX3A and function in leaf, spikelet, tiller and lateral root development](http://www.ncbi.nlm.nih.gov/pubmed?term=The rice narrow leaf2 and narrow leaf3 loci encode WUSCHEL-related homeobox 3A OsWOX3A and function in leaf, spikelet, tiller and lateral root development%5BTitle%5D), 2013, New Phytol.

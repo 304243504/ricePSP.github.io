@@ -23,6 +23,14 @@ tags:
     + NA
 
 
+* **MolPhase score**
+    + LOC_Os08g44770.1: 0.0862
+    + LOC_Os08g44770.2: 0.0726
+
+* **MolPhaseResult**
+    + ![LOC_Os08g44770.1](https://ricepsp.github.io/pictures/LOC_Os08g/LOC_Os08g44770.1.png)
+    + ![LOC_Os08g44770.2](https://ricepsp.github.io/pictures/LOC_Os08g/LOC_Os08g44770.2.png)
+
 * **Publication**  
     + [Tolerance analysis of chloroplast OsCu/Zn-SOD overexpressing rice under NaCl and NaHCO3 stress.](http://www.ncbi.nlm.nih.gov/pubmed?term=Tolerance analysis of chloroplast OsCu/Zn-SOD overexpressing rice under NaCl and NaHCO3 stress.%5BTitle%5D), 2017, PLoS One.
 

@@ -21,6 +21,12 @@ tags: [root, transcription factor, growth, jasmonate, disease, seedling, salinit
     + NA
 
 
+* **MolPhase score**
+    + LOC_Os11g45740.1: 0.0611
+
+* **MolPhaseResult**
+    + ![LOC_Os11g45740.1](https://ricepsp.github.io/pictures/LOC_Os11g/LOC_Os11g45740.1.png)
+
 * **Publication**  
     + [Role of the rice transcription factor JAmyb in abiotic stress response](http://www.ncbi.nlm.nih.gov/pubmed?term=Role of the rice transcription factor JAmyb in abiotic stress response%5BTitle%5D), 2013, J Plant Res.
     + [OsJAMyb, a R2R3-type MYB transcription factor, enhanced blast resistance in transgenic rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsJAMyb, a R2R3-type MYB transcription factor, enhanced blast resistance in transgenic rice%5BTitle%5D), 2015, Physiological and Molecular Plant Pathology.

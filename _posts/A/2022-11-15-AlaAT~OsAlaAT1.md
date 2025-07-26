@@ -21,7 +21,13 @@ tags: [nitrogen, seed, starch]
     + 96.91
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q338N8/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q3/AF-Q338N8-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q3/AF-Q338N8-F1.png))
+
+* **MolPhase score**
+    + LOC_Os10g25130.1: 0.0182
+
+* **MolPhaseResult**
+    + ![LOC_Os10g25130.1](https://ricepsp.github.io/pictures/LOC_Os10g/LOC_Os10g25130.1.png)
 
 * **Publication**  
     + [Molecular characterization of a gene for alanine aminotransferase from rice Oryza sativa](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular characterization of a gene for alanine aminotransferase from rice Oryza sativa%5BTitle%5D), 1999, Plant Mol Biol.

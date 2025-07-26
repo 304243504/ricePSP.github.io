@@ -23,7 +23,15 @@ tags:
     + 90.26
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q9AY75/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q9/AF-Q9AY75-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q9/AF-Q9AY75-F1.png))
+
+* **MolPhase score**
+    + LOC_Os03g56800.1: 0.0317
+    + LOC_Os03g56800.2: 0.086
+
+* **MolPhaseResult**
+    + ![LOC_Os03g56800.1](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g56800.1.png)
+    + ![LOC_Os03g56800.2](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g56800.2.png)
 
 * **Publication**  
     + [Genome wide expression analysis of CBS domain containing proteins in Arabidopsis thaliana L. Heynh and Oryza sativa L. reveals their developmental and stress regulation](http://www.ncbi.nlm.nih.gov/pubmed?term=Genome wide expression analysis of CBS domain containing proteins in Arabidopsis thaliana L. Heynh and Oryza sativa L. reveals their developmental and stress regulation%5BTitle%5D), 2009, BMC Genomics.

@@ -21,6 +21,12 @@ tags: [breeding, flower, seedling, growth, seed germination, floral, oxidative, 
     + NA
 
 
+* **MolPhase score**
+    + LOC_Os06g40080.1: 0.0788
+
+* **MolPhaseResult**
+    + ![LOC_Os06g40080.1](https://ricepsp.github.io/pictures/LOC_Os06g/LOC_Os06g40080.1.png)
+
 * **Publication**  
     + [A knockdown mutation of YELLOW-GREEN LEAF2 blocks chlorophyll biosynthesis in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=A knockdown mutation of YELLOW-GREEN LEAF2 blocks chlorophyll biosynthesis in rice%5BTitle%5D), 2013, Plant Cell Rep.
     + [Phytochromes confer the photoperiodic control of flowering in rice a short-day plant](http://www.ncbi.nlm.nih.gov/pubmed?term=Phytochromes confer the photoperiodic control of flowering in rice a short-day plant%5BTitle%5D), 2000, The Plant Journal.

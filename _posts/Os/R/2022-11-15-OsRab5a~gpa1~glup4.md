@@ -23,7 +23,15 @@ tags: [endosperm, seed]
     + 87.79
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0ILQ6/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0ILQ6-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0ILQ6-F1.png))
+
+* **MolPhase score**
+    + LOC_Os12g43550.1: 0.0092
+    + LOC_Os12g43550.2: 0.024
+
+* **MolPhaseResult**
+    + ![LOC_Os12g43550.1](https://ricepsp.github.io/pictures/LOC_Os12g/LOC_Os12g43550.1.png)
+    + ![LOC_Os12g43550.2](https://ricepsp.github.io/pictures/LOC_Os12g/LOC_Os12g43550.2.png)
 
 * **Publication**  
     + [OsRab5a regulates endomembrane organization and storage protein trafficking in rice endosperm cells](http://www.ncbi.nlm.nih.gov/pubmed?term=OsRab5a regulates endomembrane organization and storage protein trafficking in rice endosperm cells%5BTitle%5D), 2010, Plant J.

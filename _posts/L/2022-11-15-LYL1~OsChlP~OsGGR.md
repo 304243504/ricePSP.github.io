@@ -21,7 +21,13 @@ tags: [leaf, oxidative]
     + 86.78
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6Z2T6/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6Z2T6-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6Z2T6-F1.png))
+
+* **MolPhase score**
+    + LOC_Os02g51080.1: 0.0242
+
+* **MolPhaseResult**
+    + ![LOC_Os02g51080.1](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g51080.1.png)
 
 * **Publication**  
     + [Mutation of the light-induced yellow leaf 1 gene, which encodes a geranylgeranyl reductase, affects chlorophyll biosynthesis and light sensitivity in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Mutation of the light-induced yellow leaf 1 gene, which encodes a geranylgeranyl reductase, affects chlorophyll biosynthesis and light sensitivity in rice%5BTitle%5D), 2013, PLoS One.

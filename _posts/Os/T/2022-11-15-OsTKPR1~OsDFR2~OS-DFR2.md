@@ -21,6 +21,12 @@ tags:
     + NA
 
 
+* **MolPhase score**
+    + LOC_Os09g32020.1: 0.6727
+
+* **MolPhaseResult**
+    + ![LOC_Os09g32020.1](https://ricepsp.github.io/pictures/LOC_Os09g/LOC_Os09g32020.1.png)
+
 * **Publication**  
     + [Conserved metabolic steps for sporopollenin precursor formation in tobacco and rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Conserved metabolic steps for sporopollenin precursor formation in tobacco and rice%5BTitle%5D), 2013, Physiol Plant.
 

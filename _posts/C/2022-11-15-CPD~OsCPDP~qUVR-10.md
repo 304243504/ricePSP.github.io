@@ -21,7 +21,13 @@ tags: [growth, resistant, breeding, mitochondria, chloroplast]
     + 94.65
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6F6A2/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6F6A2-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6F6A2-F1.png))
+
+* **MolPhase score**
+    + LOC_Os10g08580.1: 0.0101
+
+* **MolPhaseResult**
+    + ![LOC_Os10g08580.1](https://ricepsp.github.io/pictures/LOC_Os10g/LOC_Os10g08580.1.png)
 
 * **Publication**  
     + [qUVR-10, a major quantitative trait locus for ultraviolet-B resistance in rice, encodes cyclobutane pyrimidine dimer photolyase](http://www.ncbi.nlm.nih.gov/pubmed?term=qUVR-10, a major quantitative trait locus for ultraviolet-B resistance in rice, encodes cyclobutane pyrimidine dimer photolyase%5BTitle%5D), 2005, Genetics.

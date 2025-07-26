@@ -21,7 +21,13 @@ tags: [root development, auxin, seed, lateral root, root]
     + 89.48
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q5NAT0/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q5/AF-Q5NAT0-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q5/AF-Q5NAT0-F1.png))
+
+* **MolPhase score**
+    + LOC_Os01g12070.1: 0.3738
+
+* **MolPhaseResult**
+    + ![LOC_Os01g12070.1](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g12070.1.png)
 
 * **Publication**  
     + [Carbohydrate-binding module of a rice endo-beta-1,4-glycanase, OsCel9A, expressed in auxin-induced lateral root primordia, is post-translationally truncated](http://www.ncbi.nlm.nih.gov/pubmed?term=Carbohydrate-binding module of a rice endo-beta-1,4-glycanase, OsCel9A, expressed in auxin-induced lateral root primordia, is post-translationally truncated%5BTitle%5D), 2006, Plant Cell Physiol.

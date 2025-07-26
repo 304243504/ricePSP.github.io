@@ -23,7 +23,15 @@ tags: [leaf, seedling, leaf development, growth, development, reproductive, repr
     + 82.09
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q8W3D9/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8W3D9-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8W3D9-F1.png))
+
+* **MolPhase score**
+    + LOC_Os10g35370.1: 0.0547
+    + LOC_Os10g35370.2: 0.0088
+
+* **MolPhaseResult**
+    + ![LOC_Os10g35370.1](https://ricepsp.github.io/pictures/LOC_Os10g/LOC_Os10g35370.1.png)
+    + ![LOC_Os10g35370.2](https://ricepsp.github.io/pictures/LOC_Os10g/LOC_Os10g35370.2.png)
 
 * **Publication**  
     + [The rice faded green leaf locus encodes protochlorophyllide oxidoreductase B and is essential for chlorophyll synthesis under high light conditions](http://www.ncbi.nlm.nih.gov/pubmed?term=The rice faded green leaf locus encodes protochlorophyllide oxidoreductase B and is essential for chlorophyll synthesis under high light conditions%5BTitle%5D), 2013, Plant J.

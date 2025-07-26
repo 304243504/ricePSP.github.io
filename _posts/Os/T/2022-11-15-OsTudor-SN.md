@@ -23,7 +23,15 @@ tags: [endosperm]
     + 83.9
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6H547/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6H547-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6H547-F1.png))
+
+* **MolPhase score**
+    + LOC_Os02g32350.1: 0.0766
+    + LOC_Os02g32350.2: 0.0766
+
+* **MolPhaseResult**
+    + ![LOC_Os02g32350.1](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g32350.1.png)
+    + ![LOC_Os02g32350.2](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g32350.2.png)
 
 * **Publication**  
     + [The cytoplasmic-localized, cytoskeletal-associated RNA binding protein OsTudor-SN: evidence for an essential role in storage protein RNA transport and localization](http://www.ncbi.nlm.nih.gov/pubmed?term=The cytoplasmic-localized, cytoskeletal-associated RNA binding protein OsTudor-SN: evidence for an essential role in storage protein RNA transport and localization%5BTitle%5D), 2008, Plant J.

@@ -24,7 +24,13 @@ tags: [growth, flower, ethylene, heading date,  ga , seedling, phosphate, flower
     + 76.82
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q10MG9/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q1/AF-Q10MG9-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q1/AF-Q10MG9-F1.png))
+
+* **MolPhase score**
+    + LOC_Os03g19590.1: 0.3805
+
+* **MolPhaseResult**
+    + ![LOC_Os03g19590.1](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g19590.1.png)
 
 * **Publication**  
     + [Phytochrome B regulates Heading date 1 Hd1-mediated expression of rice florigen Hd3a and critical day length in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Phytochrome B regulates Heading date 1 Hd1-mediated expression of rice florigen Hd3a and critical day length in rice%5BTitle%5D), 2011, Mol Genet Genomics.

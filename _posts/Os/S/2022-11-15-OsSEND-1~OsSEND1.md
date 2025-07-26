@@ -21,7 +21,13 @@ tags: [meristem, development, plant development]
     + 68.88
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q8W5R1/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8W5R1-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8W5R1-F1.png))
+
+* **MolPhase score**
+    + LOC_Os08g01130.1: 0.7992
+
+* **MolPhaseResult**
+    + ![LOC_Os08g01130.1](https://ricepsp.github.io/pictures/LOC_Os08g/LOC_Os08g01130.1.png)
 
 * **Publication**  
     + [OsSEND-1: a new RAD2 nuclease family member in higher plants](http://www.ncbi.nlm.nih.gov/pubmed?term=OsSEND-1: a new RAD2 nuclease family member in higher plants%5BTitle%5D), 2003, Plant Mol Biol.

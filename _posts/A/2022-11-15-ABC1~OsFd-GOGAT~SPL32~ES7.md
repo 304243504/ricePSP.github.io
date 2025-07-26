@@ -21,7 +21,13 @@ tags: [nitrogen, leaf, leaf senescence, transcription factor, early leaf senesce
     + 91.67
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q69RJ0/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q69RJ0-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q69RJ0-F1.png))
+
+* **MolPhase score**
+    + LOC_Os07g46460.1: 0.2392
+
+* **MolPhaseResult**
+    + ![LOC_Os07g46460.1](https://ricepsp.github.io/pictures/LOC_Os07g/LOC_Os07g46460.1.png)
 
 * **Publication**  
     + [Rice Ferredoxin-Dependent Glutamate Synthase Regulates Nitrogen-Carbon Metabolomes and Is Genetically Differentiated between japonica and indica Subspecies](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice Ferredoxin-Dependent Glutamate Synthase Regulates Nitrogen-Carbon Metabolomes and Is Genetically Differentiated between japonica and indica Subspecies%5BTitle%5D), 2016, Molecular plant.

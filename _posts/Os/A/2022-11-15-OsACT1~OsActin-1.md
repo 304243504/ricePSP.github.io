@@ -21,6 +21,12 @@ tags: [actin protein]
     + NA
 
 
+* **MolPhase score**
+    + LOC_Os03g50885.1: 0.0079
+
+* **MolPhaseResult**
+    + ![LOC_Os03g50885.1](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g50885.1.png)
+
 * **Publication**  
     + [Grain setting defect 1, encoding a remorin protein, affects the grain setting in rice through regulating plasmodesmatal conductance](http://www.ncbi.nlm.nih.gov/pubmed?term=Grain setting defect 1, encoding a remorin protein, affects the grain setting in rice through regulating plasmodesmatal conductance%5BTitle%5D), 2014, Plant Physiol.
 

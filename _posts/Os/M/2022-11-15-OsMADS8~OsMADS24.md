@@ -21,7 +21,13 @@ tags: [stamen, flower, lemma, floral, leaf, palea]
     + 78.95
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q9SAR1/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q9/AF-Q9SAR1-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q9/AF-Q9SAR1-F1.png))
+
+* **MolPhase score**
+    + LOC_Os09g32948.1: 0.3956
+
+* **MolPhaseResult**
+    + ![LOC_Os09g32948.1](https://ricepsp.github.io/pictures/LOC_Os09g/LOC_Os09g32948.1.png)
 
 * **Publication**  
     + [MADS-box gene family in rice: genome-wide identification, organization and expression profiling during reproductive development and stress](http://www.ncbi.nlm.nih.gov/pubmed?term=MADS-box gene family in rice: genome-wide identification, organization and expression profiling during reproductive development and stress%5BTitle%5D), 2007, BMC Genomics.

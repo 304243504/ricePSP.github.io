@@ -21,7 +21,13 @@ tags: [lateral root, seedling, salt, salt tolerance, salinity, auxin, abiotic st
     + 97.78
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6ZH98/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6ZH98-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6ZH98-F1.png))
+
+* **MolPhase score**
+    + LOC_Os02g02890.1: 0.0812
+
+* **MolPhaseResult**
+    + ![LOC_Os02g02890.1](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g02890.1.png)
 
 * **Publication**  
     + [LATERAL ROOTLESS2, a cyclophilin protein, regulates lateral root initiation and auxin signaling pathway in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=LATERAL ROOTLESS2, a cyclophilin protein, regulates lateral root initiation and auxin signaling pathway in rice%5BTitle%5D), 2013, Mol Plant.

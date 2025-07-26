@@ -21,10 +21,16 @@ tags:
     + 79.65
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q10NY5/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q1/AF-Q10NY5-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q1/AF-Q10NY5-F1.png))
+
+* **MolPhase score**
+    + LOC_Os03g14950.1: 0.046
+
+* **MolPhaseResult**
+    + ![LOC_Os03g14950.1](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g14950.1.png)
 
 * **Publication**  
-    + [Patatin-related phospholipase A, pPLAIIIÃÂÃÂÃÂÃÂ±, modulates the longitudinal growth of vegetative tissues and seeds in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Patatin-related phospholipase A, pPLAIIIÃÂÃÂÃÂÃÂ±, modulates the longitudinal growth of vegetative tissues and seeds in rice.%5BTitle%5D), 2015, J Exp Bot.
+    + [Patatin-related phospholipase A, pPLAIIIÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ±, modulates the longitudinal growth of vegetative tissues and seeds in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Patatin-related phospholipase A, pPLAIIIÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ±, modulates the longitudinal growth of vegetative tissues and seeds in rice.%5BTitle%5D), 2015, J Exp Bot.
 
 * **Genbank accession number**  
 

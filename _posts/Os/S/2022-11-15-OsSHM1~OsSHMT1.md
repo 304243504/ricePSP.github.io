@@ -25,7 +25,17 @@ tags: [growth, mitochondria, oxidative stress, oxidative, stress]
     + 93.67
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q10D68/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q1/AF-Q10D68-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q1/AF-Q10D68-F1.png))
+
+* **MolPhase score**
+    + LOC_Os03g52840.1: 0.0196
+    + LOC_Os03g52840.2: 0.0055
+    + LOC_Os03g52840.3: 0.0065
+
+* **MolPhaseResult**
+    + ![LOC_Os03g52840.1](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g52840.1.png)
+    + ![LOC_Os03g52840.2](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g52840.2.png)
+    + ![LOC_Os03g52840.3](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g52840.3.png)
 
 * **Publication**  
     + [Stable mitotic inheritance of rice minichromosomes in cell suspension cultures.](http://www.ncbi.nlm.nih.gov/pubmed?term=Stable mitotic inheritance of rice minichromosomes in cell suspension cultures.%5BTitle%5D), 2015, Plant Cell Rep.

@@ -21,7 +21,13 @@ tags:
     + 61.28
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/A0A0N7KSG4/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/A/AF-A0A0N7KSG4-F1.png)
+    + ![image](https://ricepsp.github.io/images/A/AF-A0A0N7KSG4-F1.png))
+
+* **MolPhase score**
+    + LOC_Os11g05640.1: 0.9916
+
+* **MolPhaseResult**
+    + ![LOC_Os11g05640.1](https://ricepsp.github.io/pictures/LOC_Os11g/LOC_Os11g05640.1.png)
 
 * **Publication**  
     + [Genome-wide analysis of basic leucine zipper transcription factor families in Arabidopsis thaliana, Oryza sativa and Populus trichocarpa](http://www.ncbi.nlm.nih.gov/pubmed?term=Genome-wide analysis of basic leucine zipper transcription factor families in Arabidopsis thaliana, Oryza sativa and Populus trichocarpa%5BTitle%5D), 2009, Journal of Shanghai University (English Edition).

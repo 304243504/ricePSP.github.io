@@ -21,7 +21,13 @@ tags:
     + 95.38
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q7XHL8/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q7/AF-Q7XHL8-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q7/AF-Q7XHL8-F1.png))
+
+* **MolPhase score**
+    + LOC_Os07g25540.1: 0.0141
+
+* **MolPhaseResult**
+    + ![LOC_Os07g25540.1](https://ricepsp.github.io/pictures/LOC_Os07g/LOC_Os07g25540.1.png)
 
 * **Publication**  
     + [Auxin biosynthesis by the YUCCA genes in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Auxin biosynthesis by the YUCCA genes in rice%5BTitle%5D), 2007, Plant Physiol.

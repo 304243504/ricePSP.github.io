@@ -31,7 +31,23 @@ tags: [domestication, flower, reproductive, floral, heading date, breeding, resi
     + 62.51
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/O82118/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/E-O/AF-O82118-F1.png)
+    + ![image](https://ricepsp.github.io/images/E-O/AF-O82118-F1.png))
+
+* **MolPhase score**
+    + LOC_Os02g49230.1: 0.5204
+    + LOC_Os02g49230.2: 0.7833
+    + LOC_Os02g49230.3: 0.5204
+    + LOC_Os02g49230.4: 0.5204
+    + LOC_Os02g49230.5: 0.5204
+    + LOC_Os02g49230.6: 0.5204
+
+* **MolPhaseResult**
+    + ![LOC_Os02g49230.1](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g49230.1.png)
+    + ![LOC_Os02g49230.2](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g49230.2.png)
+    + ![LOC_Os02g49230.3](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g49230.3.png)
+    + ![LOC_Os02g49230.4](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g49230.4.png)
+    + ![LOC_Os02g49230.5](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g49230.5.png)
+    + ![LOC_Os02g49230.6](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g49230.6.png)
 
 * **Publication**  
     + [Association of functional nucleotide polymorphisms at DTH2 with the northward expansion of rice cultivation in Asia](http://www.ncbi.nlm.nih.gov/pubmed?term=Association of functional nucleotide polymorphisms at DTH2 with the northward expansion of rice cultivation in Asia%5BTitle%5D), 2013, Proc Natl Acad Sci U S A.

@@ -21,7 +21,13 @@ tags: [transcription factor]
     + 75.87
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0JLP9/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0JLP9-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0JLP9-F1.png))
+
+* **MolPhase score**
+    + LOC_Os01g40094.1: 0.1392
+
+* **MolPhaseResult**
+    + ![LOC_Os01g40094.1](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g40094.1.png)
 
 * **Publication**  
     + [The NAC family transcription factor OsNAP confers abiotic stress response through the ABA pathway](http://www.ncbi.nlm.nih.gov/pubmed?term=The NAC family transcription factor OsNAP confers abiotic stress response through the ABA pathway%5BTitle%5D), 2014, Plant Cell Physiol.

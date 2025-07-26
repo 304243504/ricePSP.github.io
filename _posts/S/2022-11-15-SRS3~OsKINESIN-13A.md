@@ -25,6 +25,16 @@ tags: [grain, seed, cellulose, cell elongation]
     + NA
 
 
+* **MolPhase score**
+    + LOC_Os05g06280.1: 0.643
+    + LOC_Os05g06280.2: 0.6244
+    + LOC_Os05g06280.3: 0.9768
+
+* **MolPhaseResult**
+    + ![LOC_Os05g06280.1](https://ricepsp.github.io/pictures/LOC_Os05g/LOC_Os05g06280.1.png)
+    + ![LOC_Os05g06280.2](https://ricepsp.github.io/pictures/LOC_Os05g/LOC_Os05g06280.2.png)
+    + ![LOC_Os05g06280.3](https://ricepsp.github.io/pictures/LOC_Os05g/LOC_Os05g06280.3.png)
+
 * **Publication**  
     + [Antagonistic actions of HLH/bHLH proteins are involved in grain length and weight in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Antagonistic actions of HLH/bHLH proteins are involved in grain length and weight in rice%5BTitle%5D), 2012, PLoS One.
     + [A novel kinesin 13 protein regulating rice seed length](http://www.ncbi.nlm.nih.gov/pubmed?term=A novel kinesin 13 protein regulating rice seed length%5BTitle%5D), 2010, Plant Cell Physiol.

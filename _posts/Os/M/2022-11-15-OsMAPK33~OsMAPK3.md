@@ -23,7 +23,15 @@ tags:
     + 90.78
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6Z437/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6Z437-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6Z437-F1.png))
+
+* **MolPhase score**
+    + LOC_Os02g05480.1: 0.0044
+    + LOC_Os02g05480.2: 0.0044
+
+* **MolPhaseResult**
+    + ![LOC_Os02g05480.1](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g05480.1.png)
+    + ![LOC_Os02g05480.2](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g05480.2.png)
 
 * **Publication**  
     + [Overexpression of the mitogen-activated protein kinase gene OsMAPK33 enhances sensitivity to salt stress in rice Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of the mitogen-activated protein kinase gene OsMAPK33 enhances sensitivity to salt stress in rice Oryza sativa L.%5BTitle%5D), 2011, Journal of Biosciences.

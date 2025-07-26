@@ -25,7 +25,17 @@ tags: [drought tolerance, salt stress, drought, chloroplast, salt]
     + 88.93
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/P14655/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/P/AF-P14655-F1.png)
+    + ![image](https://ricepsp.github.io/images/P/AF-P14655-F1.png))
+
+* **MolPhase score**
+    + LOC_Os04g56400.1: 0.0171
+    + LOC_Os04g56400.3: 0.0569
+    + LOC_Os04g56400.4: 0.2098
+
+* **MolPhaseResult**
+    + ![LOC_Os04g56400.1](https://ricepsp.github.io/pictures/LOC_Os04g/LOC_Os04g56400.1.png)
+    + ![LOC_Os04g56400.3](https://ricepsp.github.io/pictures/LOC_Os04g/LOC_Os04g56400.3.png)
+    + ![LOC_Os04g56400.4](https://ricepsp.github.io/pictures/LOC_Os04g/LOC_Os04g56400.4.png)
 
 * **Publication**  
     + [Regulation of glutamine synthetase isoforms in two differentially drought-tolerant rice Oryza sativa L. cultivars under water deficit conditions](http://www.ncbi.nlm.nih.gov/pubmed?term=Regulation of glutamine synthetase isoforms in two differentially drought-tolerant rice Oryza sativa L. cultivars under water deficit conditions%5BTitle%5D), 2013, Plant Cell Rep.

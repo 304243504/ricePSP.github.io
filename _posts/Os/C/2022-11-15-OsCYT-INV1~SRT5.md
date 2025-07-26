@@ -23,7 +23,15 @@ tags: [growth, root development, root]
     + 84.59
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q69T31/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q69T31-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q69T31-F1.png))
+
+* **MolPhase score**
+    + LOC_Os02g34560.1: 0.0204
+    + LOC_Os02g34560.2: 0.03
+
+* **MolPhaseResult**
+    + ![LOC_Os02g34560.1](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g34560.1.png)
+    + ![LOC_Os02g34560.2](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g34560.2.png)
 
 * **Publication**  
     + [Analysis of the rice SHORT-ROOT5 gene revealed functional diversification of plant neutral/alkaline invertase family](http://www.ncbi.nlm.nih.gov/pubmed?term=Analysis of the rice SHORT-ROOT5 gene revealed functional diversification of plant neutral/alkaline invertase family%5BTitle%5D), 2009, Plant Science.

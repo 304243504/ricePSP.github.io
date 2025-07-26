@@ -21,7 +21,13 @@ tags:
     + 71.2
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/A0A0P0XNE4/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/A/AF-A0A0P0XNE4-F1.png)
+    + ![image](https://ricepsp.github.io/images/A/AF-A0A0P0XNE4-F1.png))
+
+* **MolPhase score**
+    + LOC_Os09g26660.1: 0.367
+
+* **MolPhaseResult**
+    + ![LOC_Os09g26660.1](https://ricepsp.github.io/pictures/LOC_Os09g/LOC_Os09g26660.1.png)
 
 * **Publication**  
     + [Reactive oxygen species production and activation mechanism of the rice NADPH oxidase OsRbohB](http://www.ncbi.nlm.nih.gov/pubmed?term=Reactive oxygen species production and activation mechanism of the rice NADPH oxidase OsRbohB%5BTitle%5D), 2012, J Biochem.

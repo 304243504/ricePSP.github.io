@@ -21,7 +21,13 @@ tags: [cell cycle, panicle, leaf, dwarf, cellulose, meristem, root, cell wall, v
     + 71.29
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q2QNS6/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q2/AF-Q2QNS6-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q2/AF-Q2QNS6-F1.png))
+
+* **MolPhase score**
+    + LOC_Os12g36890.1: 0.3368
+
+* **MolPhaseResult**
+    + ![LOC_Os12g36890.1](https://ricepsp.github.io/pictures/LOC_Os12g/LOC_Os12g36890.1.png)
 
 * **Publication**  
     + [Rice slender leaf 1 gene encodes cellulose synthase-like D4 and is specifically expressed in M-phase cells to regulate cell proliferation](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice slender leaf 1 gene encodes cellulose synthase-like D4 and is specifically expressed in M-phase cells to regulate cell proliferation%5BTitle%5D), 2013, J Exp Bot.

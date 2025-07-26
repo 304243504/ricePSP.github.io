@@ -21,6 +21,12 @@ tags: [domestication, grain, homeostasis, grain weight, cell wall, development, 
     + NA
 
 
+* **MolPhase score**
+    + LOC_Os04g33740.1: 0.1588
+
+* **MolPhaseResult**
+    + ![LOC_Os04g33740.1](https://ricepsp.github.io/pictures/LOC_Os04g/LOC_Os04g33740.1.png)
+
 * **Publication**  
     + [Duplication and independent selection of cell-wall invertase genes GIF1 and OsCIN1 during rice evolution and domestication](http://www.ncbi.nlm.nih.gov/pubmed?term=Duplication and independent selection of cell-wall invertase genes GIF1 and OsCIN1 during rice evolution and domestication%5BTitle%5D), 2010, BMC Evol Biol.
     + [Sugar homeostasis mediated by cell wall invertase GRAIN INCOMPLETE FILLING 1 GIF1 plays a role in pre-existing and induced defence in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Sugar homeostasis mediated by cell wall invertase GRAIN INCOMPLETE FILLING 1 GIF1 plays a role in pre-existing and induced defence in rice%5BTitle%5D), 2014, Mol Plant Pathol.
@@ -213,7 +219,7 @@ tags: [domestication, grain, homeostasis, grain weight, cell wall, development, 
     + Moreover, the cell wall was much thicker in the infection sites of the GIF1-OE plants when compared with the wild-type plants
     + We previously showed that upregulation of OsGIF1 expression improves rice grain size
     + Overexpression and functional knock-out via a CRISPR/Cas9 strategy revealed that OsGIF1 not only positively regulates the sizes of rice leaf, stem, and grain but also influences rice reproduction
-    + Expression profiles based on both qRT-PCR and GUS (Ã¼Â¾ÂÂ¦ÂÂ¼Ã¼Â¾ÂÂ¦ÂÂ¼-glucuronidase) histochemical staining suggested that OsGIF1 is differentially expressed across various rice tissues, consistent with its roles in regulating the development of multiple rice organs
+    + Expression profiles based on both qRT-PCR and GUS (ÃÂÃÂ¼ÃÂÃÂ¾ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂ¼ÃÂÃÂ¾ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼-glucuronidase) histochemical staining suggested that OsGIF1 is differentially expressed across various rice tissues, consistent with its roles in regulating the development of multiple rice organs
     + Our results suggest that OsGIF1 plays important roles in vegetative and reproductive developmental processes, with important implications for rice breeding
     + Here, we report pleiotropic effects of OsGIF1 on rice organ size regulation
     + Further histological analysis suggested that OsGIF1 affected rice organ size possibly by regulating cell size

@@ -21,7 +21,13 @@ tags:
     + 83.71
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0JR55/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0JR55-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0JR55-F1.png))
+
+* **MolPhase score**
+    + LOC_Os01g02890.1: 0.0482
+
+* **MolPhaseResult**
+    + ![LOC_Os01g02890.1](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g02890.1.png)
 
 * **Publication**  
     + [SUI-family genes encode phosphatidylserine synthases and regulate stem development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=SUI-family genes encode phosphatidylserine synthases and regulate stem development in rice%5BTitle%5D), 2013, Planta.

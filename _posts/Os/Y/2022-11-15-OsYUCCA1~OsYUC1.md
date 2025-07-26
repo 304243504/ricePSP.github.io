@@ -23,7 +23,15 @@ tags: [iaa, auxin, root, height]
     + 93.04
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/A0A0P0V5U9/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/A/AF-A0A0P0V5U9-F1.png)
+    + ![image](https://ricepsp.github.io/images/A/AF-A0A0P0V5U9-F1.png))
+
+* **MolPhase score**
+    + LOC_Os01g45760.1: 0.006
+    + LOC_Os01g45760.2: 0.0091
+
+* **MolPhaseResult**
+    + ![LOC_Os01g45760.1](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g45760.1.png)
+    + ![LOC_Os01g45760.2](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g45760.2.png)
 
 * **Publication**  
     + [A role for a dioxygenase in auxin metabolism and reproductive development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=A role for a dioxygenase in auxin metabolism and reproductive development in rice%5BTitle%5D), 2013, Dev Cell.

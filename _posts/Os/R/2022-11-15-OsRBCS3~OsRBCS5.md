@@ -21,7 +21,13 @@ tags:
     + 84.81
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/P18566/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/P/AF-P18566-F1.png)
+    + ![image](https://ricepsp.github.io/images/P/AF-P18566-F1.png))
+
+* **MolPhase score**
+    + LOC_Os12g19381.1: 0.0081
+
+* **MolPhaseResult**
+    + ![LOC_Os12g19381.1](https://ricepsp.github.io/pictures/LOC_Os12g/LOC_Os12g19381.1.png)
 
 * **Publication**  
     + [Availability of Rubisco small subunit up-regulates the transcript levels of large subunit for stoichiometric assembly of its holoenzyme in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Availability of Rubisco small subunit up-regulates the transcript levels of large subunit for stoichiometric assembly of its holoenzyme in rice%5BTitle%5D), 2012, Plant Physiol.

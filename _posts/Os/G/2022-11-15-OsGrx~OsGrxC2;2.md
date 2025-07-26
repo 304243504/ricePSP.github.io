@@ -23,6 +23,14 @@ tags: [oxidative]
     + NA
 
 
+* **MolPhase score**
+    + LOC_Os04g42930.1: 0.015
+    + LOC_Os04g42930.2: 0.0088
+
+* **MolPhaseResult**
+    + ![LOC_Os04g42930.1](https://ricepsp.github.io/pictures/LOC_Os04g/LOC_Os04g42930.1.png)
+    + ![LOC_Os04g42930.2](https://ricepsp.github.io/pictures/LOC_Os04g/LOC_Os04g42930.2.png)
+
 * **Publication**  
     + [GSH-dependent peroxidase activity of the rice Oryza sativa glutaredoxin, a thioltransferase](http://www.ncbi.nlm.nih.gov/pubmed?term=GSH-dependent peroxidase activity of the rice Oryza sativa glutaredoxin, a thioltransferase%5BTitle%5D), 2002, Biochem Biophys Res Commun.
 

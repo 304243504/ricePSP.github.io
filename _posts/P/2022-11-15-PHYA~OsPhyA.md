@@ -28,7 +28,17 @@ tags: [sheath, flower, seedling,  ga , phosphate, flowering time, ethylene, flor
     + 77.44
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q10DU0/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q1/AF-Q10DU0-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q1/AF-Q10DU0-F1.png))
+
+* **MolPhase score**
+    + LOC_Os03g51030.1: 0.0678
+    + LOC_Os03g51030.2: 0.0678
+    + LOC_Os03g51030.3: 0.0678
+
+* **MolPhaseResult**
+    + ![LOC_Os03g51030.1](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g51030.1.png)
+    + ![LOC_Os03g51030.2](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g51030.2.png)
+    + ![LOC_Os03g51030.3](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g51030.3.png)
 
 * **Publication**  
     + [Isolation and characterization of rice phytochrome A mutants](http://www.ncbi.nlm.nih.gov/pubmed?term=Isolation and characterization of rice phytochrome A mutants%5BTitle%5D), 2001, Plant Cell.

@@ -21,7 +21,13 @@ tags:
     + 70.68
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q8H273/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8H273-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8H273-F1.png))
+
+* **MolPhase score**
+    + LOC_Os04g48350.1: 0.0506
+
+* **MolPhaseResult**
+    + ![LOC_Os04g48350.1](https://ricepsp.github.io/pictures/LOC_Os04g/LOC_Os04g48350.1.png)
 
 * **Publication**  
     + [OsDREB4 genes in rice encode AP2-containing proteins that bind specifically to the dehydration-responsive element](http://www.ncbi.nlm.nih.gov/pubmed?term=OsDREB4 genes in rice encode AP2-containing proteins that bind specifically to the dehydration-responsive element%5BTitle%5D), 2005, J Integr Plant Biol.

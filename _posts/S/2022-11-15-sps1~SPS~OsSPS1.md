@@ -27,7 +27,19 @@ tags: [growth, phosphate, height, leaf, pollen, seed, vegetative, inflorescence,
     + 77.95
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0JGK4/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0JGK4-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0JGK4-F1.png))
+
+* **MolPhase score**
+    + LOC_Os01g69030.1: 0.0387
+    + LOC_Os01g69030.2: 0.7482
+    + LOC_Os01g69030.3: 0.7482
+    + LOC_Os01g69030.4: 0.7482
+
+* **MolPhaseResult**
+    + ![LOC_Os01g69030.1](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g69030.1.png)
+    + ![LOC_Os01g69030.2](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g69030.2.png)
+    + ![LOC_Os01g69030.3](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g69030.3.png)
+    + ![LOC_Os01g69030.4](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g69030.4.png)
 
 * **Publication**  
     + [Characterization of a rice sucrose-phosphate synthase-encoding gene](http://www.ncbi.nlm.nih.gov/pubmed?term=Characterization of a rice sucrose-phosphate synthase-encoding gene%5BTitle%5D), 1996, Gene.

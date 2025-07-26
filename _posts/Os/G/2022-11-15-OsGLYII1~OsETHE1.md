@@ -23,7 +23,15 @@ tags: [root, calcium, stress, stress response]
     + 86.15
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q5QLQ5/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q5/AF-Q5QLQ5-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q5/AF-Q5QLQ5-F1.png))
+
+* **MolPhase score**
+    + LOC_Os01g47690.1: 0.3128
+    + LOC_Os01g47690.2: 0.1713
+
+* **MolPhaseResult**
+    + ![LOC_Os01g47690.1](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g47690.1.png)
+    + ![LOC_Os01g47690.2](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g47690.2.png)
 
 * **Publication**  
     + [Expression of abiotic stress inducible ETHE1-like protein from rice is higher in roots and is regulated by calcium.](http://www.ncbi.nlm.nih.gov/pubmed?term=Expression of abiotic stress inducible ETHE1-like protein from rice is higher in roots and is regulated by calcium.%5BTitle%5D), 2014, Physiol Plant.

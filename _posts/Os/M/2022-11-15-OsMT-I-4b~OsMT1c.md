@@ -21,7 +21,13 @@ tags: [seedling, shoot]
     + 54.28
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q2QNE8/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q2/AF-Q2QNE8-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q2/AF-Q2QNE8-F1.png))
+
+* **MolPhase score**
+    + LOC_Os12g38051.1: 0.3826
+
+* **MolPhaseResult**
+    + ![LOC_Os12g38051.1](https://ricepsp.github.io/pictures/LOC_Os12g/LOC_Os12g38051.1.png)
 
 * **Publication**  
     + [Expression patterns of the rice class I metallothionein gene family in response to lead stress in rice seedlings and functional complementation of its members in lead-sensitive yeast cells](http://www.ncbi.nlm.nih.gov/pubmed?term=Expression patterns of the rice class I metallothionein gene family in response to lead stress in rice seedlings and functional complementation of its members in lead-sensitive yeast cells%5BTitle%5D), 2007, Chinese Science Bulletin.

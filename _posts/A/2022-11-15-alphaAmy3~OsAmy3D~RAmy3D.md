@@ -25,6 +25,16 @@ tags: [seed]
     + NA
 
 
+* **MolPhase score**
+    + LOC_Os08g36910.1: 0.036
+    + LOC_Os08g36910.2: 0.0043
+    + LOC_Os08g36910.3: 0.0524
+
+* **MolPhaseResult**
+    + ![LOC_Os08g36910.1](https://ricepsp.github.io/pictures/LOC_Os08g/LOC_Os08g36910.1.png)
+    + ![LOC_Os08g36910.2](https://ricepsp.github.io/pictures/LOC_Os08g/LOC_Os08g36910.2.png)
+    + ![LOC_Os08g36910.3](https://ricepsp.github.io/pictures/LOC_Os08g/LOC_Os08g36910.3.png)
+
 * **Publication**  
     + [Metabolic regulation of ?-amylase gene expression in transgenic cell cultures of rice Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=Metabolic regulation of ?-amylase gene expression in transgenic cell cultures of rice Oryza sativa L.%5BTitle%5D), 1993, Plant Mol Biol.
     + [Interference with oxidative phosphorylation enhances anoxic expression of rice alpha-amylase genes through abolishing sugar regulation](http://www.ncbi.nlm.nih.gov/pubmed?term=Interference with oxidative phosphorylation enhances anoxic expression of rice alpha-amylase genes through abolishing sugar regulation%5BTitle%5D), 2010, J Exp Bot.
@@ -50,7 +60,7 @@ tags: [seed]
     + __alphaAmy3~OsAmy3D~RAmy3D__, __OsCIPK15__, [Interference with oxidative phosphorylation enhances anoxic expression of rice alpha-amylase genes through abolishing sugar regulation](http://www.ncbi.nlm.nih.gov/pubmed?term=Interference with oxidative phosphorylation enhances anoxic expression of rice alpha-amylase genes through abolishing sugar regulation%5BTitle%5D), Treatment with a respiratory inhibitor or anoxia also relieved the sugar repression of the rice CIPK15 gene, a main upstream positive regulator of SnRK1A that is critical for Amy3D expression in response to sugar starvation
     + __alphaAmy3~OsAmy3D~RAmy3D__, __OsCIPK15__, [Regulatory interplay of the Sub1A and CIPK15 pathways in the regulation of alpha-amylase production in flooded rice plants](http://www.ncbi.nlm.nih.gov/pubmed?term=Regulatory interplay of the Sub1A and CIPK15 pathways in the regulation of alpha-amylase production in flooded rice plants%5BTitle%5D), CIPK15 is likely to play a role in the up-regulation of Ramy3D in flooding-intolerant rice varieties that display fast elongation under flooding and that do not possess Sub1A
     + __alphaAmy3~OsAmy3D~RAmy3D__, __Sub1A__, [Regulatory interplay of the Sub1A and CIPK15 pathways in the regulation of alpha-amylase production in flooded rice plants](http://www.ncbi.nlm.nih.gov/pubmed?term=Regulatory interplay of the Sub1A and CIPK15 pathways in the regulation of alpha-amylase production in flooded rice plants%5BTitle%5D), CIPK15 is likely to play a role in the up-regulation of Ramy3D in flooding-intolerant rice varieties that display fast elongation under flooding and that do not possess Sub1A
-    + __alphaAmy3~OsAmy3D~RAmy3D__, __OsHXK7__, [Role of rice cytosolic hexokinase OsHXK7 in sugar signaling and metabolism.](http://www.ncbi.nlm.nih.gov/pubmed?term=Role of rice cytosolic hexokinase OsHXK7 in sugar signaling and metabolism.%5BTitle%5D), According to transient expression assays that used the promoter:luciferase fusion construct, OsHXK7 enhanced the glucose (Glc)-dependent repression of a rice ÃÂ±-amylase gene (RAmy3D) in the mesophyll protoplasts of maize, but its catalytically inactive mutant alleles did not
+    + __alphaAmy3~OsAmy3D~RAmy3D__, __OsHXK7__, [Role of rice cytosolic hexokinase OsHXK7 in sugar signaling and metabolism.](http://www.ncbi.nlm.nih.gov/pubmed?term=Role of rice cytosolic hexokinase OsHXK7 in sugar signaling and metabolism.%5BTitle%5D), According to transient expression assays that used the promoter:luciferase fusion construct, OsHXK7 enhanced the glucose (Glc)-dependent repression of a rice ÃÂÃÂÃÂÃÂ±-amylase gene (RAmy3D) in the mesophyll protoplasts of maize, but its catalytically inactive mutant alleles did not
 
 [//]: # * **Key figures**  
 

@@ -21,7 +21,13 @@ tags: [salt stress, drought, oxidative, salt tolerance, salt, seedling]
     + 82.79
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q60DN5/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q60DN5-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q60DN5-F1.png))
+
+* **MolPhase score**
+    + LOC_Os03g44230.1: 0.0217
+
+* **MolPhaseResult**
+    + ![LOC_Os03g44230.1](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g44230.1.png)
 
 * **Publication**  
     + [Overexpression of a TFIIIA-type zinc finger protein gene ZFP252 enhances drought and salt tolerance in rice Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of a TFIIIA-type zinc finger protein gene ZFP252 enhances drought and salt tolerance in rice Oryza sativa L.%5BTitle%5D), 2008, FEBS Lett.

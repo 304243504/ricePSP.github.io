@@ -27,7 +27,19 @@ tags:
     + 68.92
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q5SN53/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q5/AF-Q5SN53-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q5/AF-Q5SN53-F1.png))
+
+* **MolPhase score**
+    + LOC_Os01g47530.1: 0.2312
+    + LOC_Os01g47530.2: 0.2617
+    + LOC_Os01g47530.3: 0.351
+    + LOC_Os01g47530.4: 0.0615
+
+* **MolPhaseResult**
+    + ![LOC_Os01g47530.1](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g47530.1.png)
+    + ![LOC_Os01g47530.2](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g47530.2.png)
+    + ![LOC_Os01g47530.3](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g47530.3.png)
+    + ![LOC_Os01g47530.4](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g47530.4.png)
 
 * **Publication**  
     + [Molecular analysis of the rice MAP kinase gene family in relation to Magnaporthe grisea infection](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular analysis of the rice MAP kinase gene family in relation to Magnaporthe grisea infection%5BTitle%5D), 2006, Mol Plant Microbe Interact.

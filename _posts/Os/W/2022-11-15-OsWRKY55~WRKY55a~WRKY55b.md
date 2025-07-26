@@ -25,7 +25,17 @@ tags:
     + 68.42
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q10M65/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q1/AF-Q10M65-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q1/AF-Q10M65-F1.png))
+
+* **MolPhase score**
+    + LOC_Os03g20550.1: 0.3423
+    + LOC_Os03g20550.2: 0.0453
+    + LOC_Os03g20550.3: 0.4749
+
+* **MolPhaseResult**
+    + ![LOC_Os03g20550.1](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g20550.1.png)
+    + ![LOC_Os03g20550.2](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g20550.2.png)
+    + ![LOC_Os03g20550.3](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g20550.3.png)
 
 * **Publication**  
     + [Constitutive expression of pathogen-inducible OsWRKY31 enhances disease resistance and affects root growth and auxin response in transgenic rice plants](http://www.ncbi.nlm.nih.gov/pubmed?term=Constitutive expression of pathogen-inducible OsWRKY31 enhances disease resistance and affects root growth and auxin response in transgenic rice plants%5BTitle%5D), 2008, Cell Res.

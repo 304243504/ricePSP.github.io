@@ -21,7 +21,13 @@ tags: [phosphate, shoot, homeostasis, transporter,  pi , Pi]
     + 78.08
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0JAW2/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0JAW2-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0JAW2-F1.png))
+
+* **MolPhase score**
+    + LOC_Os04g48390.1: 0.0195
+
+* **MolPhaseResult**
+    + ![LOC_Os04g48390.1](https://ricepsp.github.io/pictures/LOC_Os04g/LOC_Os04g48390.1.png)
 
 * **Publication**  
     + [Auxin response factor OsARF12, a novel regulator for phosphate homeostasis in rice Oryza sativa](http://www.ncbi.nlm.nih.gov/pubmed?term=Auxin response factor OsARF12, a novel regulator for phosphate homeostasis in rice Oryza sativa%5BTitle%5D), 2014, New Phytol.

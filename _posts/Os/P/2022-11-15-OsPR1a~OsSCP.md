@@ -21,7 +21,13 @@ tags: [leaf,  sa , jasmonic acid, jasmonic, phytohormone,  pi , ethylene, salicy
     + 90.48
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6YSF8/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6YSF8-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6YSF8-F1.png))
+
+* **MolPhase score**
+    + LOC_Os07g03710.1: 0.3659
+
+* **MolPhaseResult**
+    + ![LOC_Os07g03710.1](https://ricepsp.github.io/pictures/LOC_Os07g/LOC_Os07g03710.1.png)
 
 * **Publication**  
     + [A novel rice Oryza sativa L. acidic PR1 gene highly responsive to cut, phytohormones, and protein phosphatase inhibitors](http://www.ncbi.nlm.nih.gov/pubmed?term=A novel rice Oryza sativa L. acidic PR1 gene highly responsive to cut, phytohormones, and protein phosphatase inhibitors%5BTitle%5D), 2000, Biochem Biophys Res Commun.

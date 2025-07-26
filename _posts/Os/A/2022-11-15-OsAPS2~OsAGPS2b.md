@@ -23,7 +23,15 @@ tags: [starch, seed, endosperm]
     + 85.36
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/P15280/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/P/AF-P15280-F1.png)
+    + ![image](https://ricepsp.github.io/images/P/AF-P15280-F1.png))
+
+* **MolPhase score**
+    + LOC_Os08g25734.1: 0.0748
+    + LOC_Os08g25734.2: 0.0453
+
+* **MolPhaseResult**
+    + ![LOC_Os08g25734.1](https://ricepsp.github.io/pictures/LOC_Os08g/LOC_Os08g25734.1.png)
+    + ![LOC_Os08g25734.2](https://ricepsp.github.io/pictures/LOC_Os08g/LOC_Os08g25734.2.png)
 
 * **Publication**  
     + [Identification of the ADP-glucose pyrophosphorylase isoforms essential for starch synthesis in the leaf and seed endosperm of rice Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification of the ADP-glucose pyrophosphorylase isoforms essential for starch synthesis in the leaf and seed endosperm of rice Oryza sativa L.%5BTitle%5D), 2007, Plant Mol Biol.

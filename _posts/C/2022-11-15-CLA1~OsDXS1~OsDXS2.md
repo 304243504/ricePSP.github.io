@@ -21,7 +21,13 @@ tags:
     + 85.76
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/O22567/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/E-O/AF-O22567-F1.png)
+    + ![image](https://ricepsp.github.io/images/E-O/AF-O22567-F1.png))
+
+* **MolPhase score**
+    + LOC_Os05g33840.1: 0.5418
+
+* **MolPhaseResult**
+    + ![LOC_Os05g33840.1](https://ricepsp.github.io/pictures/LOC_Os05g/LOC_Os05g33840.1.png)
 
 * **Publication**  
     + [Elicitor induced activation of the methylerythritol phosphate pathway toward phytoalexins biosynthesis in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Elicitor induced activation of the methylerythritol phosphate pathway toward phytoalexins biosynthesis in rice%5BTitle%5D), 2007, Plant Mol Biol.

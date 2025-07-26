@@ -21,7 +21,13 @@ tags: [salt,  ABA , sheath, oxidative, root architecture, stomatal, drought, eth
     + 69.68
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q75HE5/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q7/AF-Q75HE5-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q7/AF-Q75HE5-F1.png))
+
+* **MolPhase score**
+    + LOC_Os03g60080.1: 0.1846
+
+* **MolPhaseResult**
+    + ![LOC_Os03g60080.1](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g60080.1.png)
 
 * **Publication**  
     + [Rice gene OsNAC19 encodes a novel NAC-domain transcription factor and responds to infection by Magnaporthe grisea](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice gene OsNAC19 encodes a novel NAC-domain transcription factor and responds to infection by Magnaporthe grisea%5BTitle%5D), 2007, Plant Science.

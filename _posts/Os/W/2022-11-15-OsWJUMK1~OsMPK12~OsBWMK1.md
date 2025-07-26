@@ -23,7 +23,15 @@ tags: [defense response,  sa , defense, transcription factor, cell death]
     + 68.82
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q5Z9J0/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q5/AF-Q5Z9J0-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q5/AF-Q5Z9J0-F1.png))
+
+* **MolPhase score**
+    + LOC_Os06g49430.1: 0.2366
+    + LOC_Os06g49430.2: 0.0449
+
+* **MolPhaseResult**
+    + ![LOC_Os06g49430.1](https://ricepsp.github.io/pictures/LOC_Os06g/LOC_Os06g49430.1.png)
+    + ![LOC_Os06g49430.2](https://ricepsp.github.io/pictures/LOC_Os06g/LOC_Os06g49430.2.png)
 
 * **Publication**  
     + [Novel rice MAP kinases OsMSRMK3 and OsWJUMK1 involved in encountering diverse environmental stresses and developmental regulation](http://www.ncbi.nlm.nih.gov/pubmed?term=Novel rice MAP kinases OsMSRMK3 and OsWJUMK1 involved in encountering diverse environmental stresses and developmental regulation%5BTitle%5D), 2003, Biochem Biophys Res Commun.

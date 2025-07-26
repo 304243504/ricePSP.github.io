@@ -21,6 +21,12 @@ tags:
     + NA
 
 
+* **MolPhase score**
+    + LOC_Os02g09750.1: 0.0449
+
+* **MolPhaseResult**
+    + ![LOC_Os02g09750.1](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g09750.1.png)
+
 * **Publication**  
     + [Mutations of genes in synthesis of the carotenoid precursors of ABA lead to pre-harvest sprouting and photo-oxidation in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Mutations of genes in synthesis of the carotenoid precursors of ABA lead to pre-harvest sprouting and photo-oxidation in rice%5BTitle%5D), 2008, Plant J.
 

@@ -21,7 +21,13 @@ tags: [root development, salinity, seed,  ja , transcription factor, root, growt
     + 91.31
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q8S3P3/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8S3P3-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8S3P3-F1.png))
+
+* **MolPhase score**
+    + LOC_Os04g56430.1: 0.0666
+
+* **MolPhaseResult**
+    + ![LOC_Os04g56430.1](https://ricepsp.github.io/pictures/LOC_Os04g/LOC_Os04g56430.1.png)
 
 * **Publication**  
     + [OsRMC, a negative regulator of salt stress response in rice, is regulated by two AP2/ERF transcription factors](http://www.ncbi.nlm.nih.gov/pubmed?term=OsRMC, a negative regulator of salt stress response in rice, is regulated by two AP2/ERF transcription factors%5BTitle%5D), 2013, Plant Mol Biol.

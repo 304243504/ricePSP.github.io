@@ -21,7 +21,13 @@ tags: [temperature, transcription factor, salinity, drought, cold stress, shoot,
     + 72.64
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q8S9Z5/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8S9Z5-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8S9Z5-F1.png))
+
+* **MolPhase score**
+    + LOC_Os01g73770.1: 0.5675
+
+* **MolPhaseResult**
+    + ![LOC_Os01g73770.1](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g73770.1.png)
 
 * **Publication**  
     + [Colinearity and similar expression pattern of rice DREB1s reveal their functional conservation in the cold-responsive pathway](http://www.ncbi.nlm.nih.gov/pubmed?term=Colinearity and similar expression pattern of rice DREB1s reveal their functional conservation in the cold-responsive pathway%5BTitle%5D), 2012, PLoS One.

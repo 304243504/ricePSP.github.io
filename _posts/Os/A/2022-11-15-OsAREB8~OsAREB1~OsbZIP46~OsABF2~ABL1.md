@@ -25,7 +25,17 @@ tags: [drought tolerance, salinity, auxin,  ABA , abiotic stress, flower, drough
     + 63.67
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q69TW5/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q69TW5-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q69TW5-F1.png))
+
+* **MolPhase score**
+    + LOC_Os06g10880.1: 0.1418
+    + LOC_Os06g10880.2: 0.1418
+    + LOC_Os06g10880.3: 0.0389
+
+* **MolPhaseResult**
+    + ![LOC_Os06g10880.1](https://ricepsp.github.io/pictures/LOC_Os06g/LOC_Os06g10880.1.png)
+    + ![LOC_Os06g10880.2](https://ricepsp.github.io/pictures/LOC_Os06g/LOC_Os06g10880.2.png)
+    + ![LOC_Os06g10880.3](https://ricepsp.github.io/pictures/LOC_Os06g/LOC_Os06g10880.3.png)
 
 * **Publication**  
     + [OsAREB1, an ABRE-binding protein responding to ABA and glucose, has multiple functions in Arabidopsis](http://www.ncbi.nlm.nih.gov/pubmed?term=OsAREB1, an ABRE-binding protein responding to ABA and glucose, has multiple functions in Arabidopsis%5BTitle%5D), 2010, BMB reports.

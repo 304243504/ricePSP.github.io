@@ -27,6 +27,18 @@ tags: [seed, transcription factor, root]
     + NA
 
 
+* **MolPhase score**
+    + LOC_Os10g28340.1: 0.5019
+    + LOC_Os10g28340.2: 0.3707
+    + LOC_Os10g28340.3: 0.3707
+    + LOC_Os10g28340.5: 0.5019
+
+* **MolPhaseResult**
+    + ![LOC_Os10g28340.1](https://ricepsp.github.io/pictures/LOC_Os10g/LOC_Os10g28340.1.png)
+    + ![LOC_Os10g28340.2](https://ricepsp.github.io/pictures/LOC_Os10g/LOC_Os10g28340.2.png)
+    + ![LOC_Os10g28340.3](https://ricepsp.github.io/pictures/LOC_Os10g/LOC_Os10g28340.3.png)
+    + ![LOC_Os10g28340.5](https://ricepsp.github.io/pictures/LOC_Os10g/LOC_Os10g28340.5.png)
+
 * **Publication**  
     + [Isolation and characterization of a cDNA encoding two novel heat-shock factor OsHSF6 and OsHSF12 in Oryza sativa L](http://www.ncbi.nlm.nih.gov/pubmed?term=Isolation and characterization of a cDNA encoding two novel heat-shock factor OsHSF6 and OsHSF12 in Oryza sativa L%5BTitle%5D), 2005, J Biochem Mol Biol.
     + [OsHsfA2c and OsHsfB4b are involved in the transcriptional regulation of cytoplasmic OsClpB Hsp100 gene in rice Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsHsfA2c and OsHsfB4b are involved in the transcriptional regulation of cytoplasmic OsClpB Hsp100 gene in rice Oryza sativa L.%5BTitle%5D), 2012, Cell Stress Chaperones.

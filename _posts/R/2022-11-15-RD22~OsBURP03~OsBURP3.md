@@ -21,7 +21,13 @@ tags:
     + 76.31
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q942D4/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q9/AF-Q942D4-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q9/AF-Q942D4-F1.png))
+
+* **MolPhase score**
+    + LOC_Os01g53240.1: 0.9092
+
+* **MolPhaseResult**
+    + ![LOC_Os01g53240.1](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g53240.1.png)
 
 * **Publication**  
     + [Genome-wide identification of BURP domain-containing genes in rice reveals a gene family with diverse structures and responses to abiotic stresses](http://www.ncbi.nlm.nih.gov/pubmed?term=Genome-wide identification of BURP domain-containing genes in rice reveals a gene family with diverse structures and responses to abiotic stresses%5BTitle%5D), 2009, Planta.

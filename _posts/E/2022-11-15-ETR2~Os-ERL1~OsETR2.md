@@ -25,7 +25,17 @@ tags: [panicle, ethylene, gibberellin, flower, stem, submergence, seed, starch, 
     + 76.73
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q7XX84/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q7/AF-Q7XX84-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q7/AF-Q7XX84-F1.png))
+
+* **MolPhase score**
+    + LOC_Os04g08740.1: 0.0456
+    + LOC_Os04g08740.2: 0.0456
+    + LOC_Os04g08740.3: 0.0272
+
+* **MolPhaseResult**
+    + ![LOC_Os04g08740.1](https://ricepsp.github.io/pictures/LOC_Os04g/LOC_Os04g08740.1.png)
+    + ![LOC_Os04g08740.2](https://ricepsp.github.io/pictures/LOC_Os04g/LOC_Os04g08740.2.png)
+    + ![LOC_Os04g08740.3](https://ricepsp.github.io/pictures/LOC_Os04g/LOC_Os04g08740.3.png)
 
 * **Publication**  
     + [Identification and characterization of a novel water-deficit-suppressed gene OsARD encoding an aci-reductone-dioxygenase-like protein in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification and characterization of a novel water-deficit-suppressed gene OsARD encoding an aci-reductone-dioxygenase-like protein in rice%5BTitle%5D), 2005, Gene.

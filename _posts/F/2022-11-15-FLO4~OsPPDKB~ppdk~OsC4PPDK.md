@@ -23,7 +23,15 @@ tags: [pericarp, grain, endosperm, reproductive, seed, seed development, grain f
     + 85.24
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6AVA8/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6AVA8-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6AVA8-F1.png))
+
+* **MolPhase score**
+    + LOC_Os05g33570.1: 0.1106
+    + LOC_Os05g33570.2: 0.0664
+
+* **MolPhaseResult**
+    + ![LOC_Os05g33570.1](https://ricepsp.github.io/pictures/LOC_Os05g/LOC_Os05g33570.1.png)
+    + ![LOC_Os05g33570.2](https://ricepsp.github.io/pictures/LOC_Os05g/LOC_Os05g33570.2.png)
 
 * **Publication**  
     + [Posttranslational regulation of pyruvate, orthophosphate dikinase in developing rice Oryza sativa seeds](http://www.ncbi.nlm.nih.gov/pubmed?term=Posttranslational regulation of pyruvate, orthophosphate dikinase in developing rice Oryza sativa seeds%5BTitle%5D), 2006, Planta.

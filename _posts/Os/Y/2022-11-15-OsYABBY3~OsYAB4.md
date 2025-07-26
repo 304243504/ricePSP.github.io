@@ -21,6 +21,12 @@ tags:
     + NA
 
 
+* **MolPhase score**
+    + LOC_Os10g36420.1: 0.9566
+
+* **MolPhaseResult**
+    + ![LOC_Os10g36420.1](https://ricepsp.github.io/pictures/LOC_Os10g/LOC_Os10g36420.1.png)
+
 * **Publication**  
     + [Molecular characterization the YABBY gene family in Oryza sativa and expression analysis of OsYABBY1](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular characterization the YABBY gene family in Oryza sativa and expression analysis of OsYABBY1%5BTitle%5D), 2007, Mol Genet Genomics.
 

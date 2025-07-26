@@ -25,7 +25,17 @@ tags: [root, transcription factor, homeostasis, shoot]
     + 69.05
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q10KL8/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q1/AF-Q10KL8-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q1/AF-Q10KL8-F1.png))
+
+* **MolPhase score**
+    + LOC_Os03g26210.1: 0.1083
+    + LOC_Os03g26210.2: 0.6041
+    + LOC_Os03g26210.3: 0.6041
+
+* **MolPhaseResult**
+    + ![LOC_Os03g26210.1](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g26210.1.png)
+    + ![LOC_Os03g26210.2](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g26210.2.png)
+    + ![LOC_Os03g26210.3](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g26210.3.png)
 
 * **Publication**  
     + [Identification of a novel iron regulated basic helix-loop-helix protein involved in Fe homeostasis in Oryza sativa](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification of a novel iron regulated basic helix-loop-helix protein involved in Fe homeostasis in Oryza sativa%5BTitle%5D), 2010, BMC Plant Biol.

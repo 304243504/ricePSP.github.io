@@ -21,7 +21,13 @@ tags: [BR signaling,  BR , domestication, dwarf, tillering, lamina, grain size, 
     + 71.21
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q9LWU9/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q9/AF-Q9LWU9-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q9/AF-Q9LWU9-F1.png))
+
+* **MolPhase score**
+    + LOC_Os06g03710.1: 0.557
+
+* **MolPhaseResult**
+    + ![LOC_Os06g03710.1](https://ricepsp.github.io/pictures/LOC_Os06g/LOC_Os06g03710.1.png)
 
 * **Publication**  
     + [Identification and characterization of dwarf 62, a loss-of-function mutation in DLT/OsGRAS-32 affecting gibberellin metabolism in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification and characterization of dwarf 62, a loss-of-function mutation in DLT/OsGRAS-32 affecting gibberellin metabolism in rice%5BTitle%5D), 2010, Planta.

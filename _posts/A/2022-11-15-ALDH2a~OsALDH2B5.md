@@ -29,7 +29,21 @@ tags: [mitochondria, seedling, sheath, submergence, panicle, leaf]
     + 91.43
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q9LRI6/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q9/AF-Q9LRI6-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q9/AF-Q9LRI6-F1.png))
+
+* **MolPhase score**
+    + LOC_Os02g49720.1: 0.0456
+    + LOC_Os02g49720.2: 0.0125
+    + LOC_Os02g49720.3: 0.07
+    + LOC_Os02g49720.6: 0.0057
+    + LOC_Os02g49720.7: 0.0346
+
+* **MolPhaseResult**
+    + ![LOC_Os02g49720.1](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g49720.1.png)
+    + ![LOC_Os02g49720.2](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g49720.2.png)
+    + ![LOC_Os02g49720.3](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g49720.3.png)
+    + ![LOC_Os02g49720.6](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g49720.6.png)
+    + ![LOC_Os02g49720.7](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g49720.7.png)
 
 * **Publication**  
     + [Induction of mitochondrial aldehyde dehydrogenase by submergence facilitates oxidation of acetaldehyde during re-aeration in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Induction of mitochondrial aldehyde dehydrogenase by submergence facilitates oxidation of acetaldehyde during re-aeration in rice%5BTitle%5D), 2003, FEBS Letters.

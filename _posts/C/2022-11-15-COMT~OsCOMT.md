@@ -21,6 +21,12 @@ tags: [disease, disease resistance, cytoplasm, melatonin, melatonin biosynthesis
     + NA
 
 
+* **MolPhase score**
+    + LOC_Os08g06100.1: 0.0248
+
+* **MolPhaseResult**
+    + ![LOC_Os08g06100.1](https://ricepsp.github.io/pictures/LOC_Os08g/LOC_Os08g06100.1.png)
+
 * **Publication**  
     + [OsCAD2 is the major CAD gene responsible for monolignol biosynthesis in rice culm](http://www.ncbi.nlm.nih.gov/pubmed?term=OsCAD2 is the major CAD gene responsible for monolignol biosynthesis in rice culm%5BTitle%5D), 2012, Plant Cell Rep.
     + [Flavonoid 3'-O-methyltransferase from rice: cDNA cloning, characterization and functional expression](http://www.ncbi.nlm.nih.gov/pubmed?term=Flavonoid 3'-O-methyltransferase from rice: cDNA cloning, characterization and functional expression%5BTitle%5D), 2006, Phytochemistry.

@@ -21,7 +21,13 @@ tags: [submergence, phytohormone, ethylene, abiotic stress, transcription factor
     + 92.94
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q10RE5/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q1/AF-Q10RE5-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q1/AF-Q10RE5-F1.png))
+
+* **MolPhase score**
+    + LOC_Os03g06620.1: 0.0031
+
+* **MolPhaseResult**
+    + ![LOC_Os03g06620.1](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g06620.1.png)
 
 * **Publication**  
     + [Identification and characterization of a novel water-deficit-suppressed gene OsARD encoding an aci-reductone-dioxygenase-like protein in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification and characterization of a novel water-deficit-suppressed gene OsARD encoding an aci-reductone-dioxygenase-like protein in rice%5BTitle%5D), 2005, Gene.

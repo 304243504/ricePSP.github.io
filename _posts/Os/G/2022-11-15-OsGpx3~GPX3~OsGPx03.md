@@ -21,7 +21,13 @@ tags: [homeostasis, mitochondria, root, shoot]
     + 84.48
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6ESJ0/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6ESJ0-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6ESJ0-F1.png))
+
+* **MolPhase score**
+    + LOC_Os02g44500.1: 0.2188
+
+* **MolPhaseResult**
+    + ![LOC_Os02g44500.1](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g44500.1.png)
 
 * **Publication**  
     + [Role of peroxidases in the compensation of cytosolic ascorbate peroxidase knockdown in rice plants under abiotic stress](http://www.ncbi.nlm.nih.gov/pubmed?term=Role of peroxidases in the compensation of cytosolic ascorbate peroxidase knockdown in rice plants under abiotic stress%5BTitle%5D), 2011, Plant Cell Environ.

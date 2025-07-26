@@ -21,7 +21,13 @@ tags: [leaf, transporter, vegetative]
     + 84.89
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q69JW3/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q69JW3-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q69JW3-F1.png))
+
+* **MolPhase score**
+    + LOC_Os02g36700.1: 0.1679
+
+* **MolPhaseResult**
+    + ![LOC_Os02g36700.1](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g36700.1.png)
 
 * **Publication**  
     + [Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z](http://www.ncbi.nlm.nih.gov/pubmed?term=Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z%5BTitle%5D), 2008, J Integr Plant Biol.

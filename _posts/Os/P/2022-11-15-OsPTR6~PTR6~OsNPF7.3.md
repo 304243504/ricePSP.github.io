@@ -21,7 +21,13 @@ tags: [growth, nitrogen, transporter, plant growth, grain, grain yield]
     + 80.19
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q7XNU6/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q7/AF-Q7XNU6-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q7/AF-Q7XNU6-F1.png))
+
+* **MolPhase score**
+    + LOC_Os04g50950.1: 0.0978
+
+* **MolPhaseResult**
+    + ![LOC_Os04g50950.1](https://ricepsp.github.io/pictures/LOC_Os04g/LOC_Os04g50950.1.png)
 
 * **Publication**  
     + [Over-expression of OsPTR6 in rice increased plant growth at different nitrogen supplies but decreased nitrogen use efficiency at high ammonium supply.](http://www.ncbi.nlm.nih.gov/pubmed?term=Over-expression of OsPTR6 in rice increased plant growth at different nitrogen supplies but decreased nitrogen use efficiency at high ammonium supply.%5BTitle%5D), 2014, Plant Sci.

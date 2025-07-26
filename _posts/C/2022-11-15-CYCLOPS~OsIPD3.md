@@ -21,6 +21,12 @@ tags:
     + NA
 
 
+* **MolPhase score**
+    + LOC_Os06g02520.1: 0.4591
+
+* **MolPhaseResult**
+    + ![LOC_Os06g02520.1](https://ricepsp.github.io/pictures/LOC_Os06g/LOC_Os06g02520.1.png)
+
 * **Publication**  
     + [OsIPD3, an ortholog of the Medicago truncatula DMI3 interacting protein IPD3, is required for mycorrhizal symbiosis in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsIPD3, an ortholog of the Medicago truncatula DMI3 interacting protein IPD3, is required for mycorrhizal symbiosis in rice%5BTitle%5D), 2008, New Phytol.
     + [CYCLOPS, a mediator of symbiotic intracellular accommodation](http://www.ncbi.nlm.nih.gov/pubmed?term=CYCLOPS, a mediator of symbiotic intracellular accommodation%5BTitle%5D), 2008, Proc Natl Acad Sci U S A.

@@ -23,7 +23,15 @@ tags: [seedling, grain, flower, cell cycle, cell elongation, vegetative, endospe
     + 75.81
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q10SH0/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q1/AF-Q10SH0-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q1/AF-Q10SH0-F1.png))
+
+* **MolPhase score**
+    + LOC_Os03g03150.1: 0.9778
+    + LOC_Os03g03150.2: 0.9778
+
+* **MolPhaseResult**
+    + ![LOC_Os03g03150.1](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g03150.1.png)
+    + ![LOC_Os03g03150.2](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g03150.2.png)
 
 * **Publication**  
     + [Potential role of the rice OsCCS52A gene in endoreduplication](http://www.ncbi.nlm.nih.gov/pubmed?term=Potential role of the rice OsCCS52A gene in endoreduplication%5BTitle%5D), 2012, Planta.

@@ -25,6 +25,16 @@ tags: [stroma]
     + NA
 
 
+* **MolPhase score**
+    + LOC_Os02g44780.1: 0.0299
+    + LOC_Os02g44780.2: 0.0299
+    + LOC_Os02g44780.3: 0.0299
+
+* **MolPhaseResult**
+    + ![LOC_Os02g44780.1](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g44780.1.png)
+    + ![LOC_Os02g44780.2](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g44780.2.png)
+    + ![LOC_Os02g44780.3](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g44780.3.png)
+
 * **Publication**  
     + [Two solanesyl diphosphate synthases with different subcellular localizations and their respective physiological roles in Oryza sativa](http://www.ncbi.nlm.nih.gov/pubmed?term=Two solanesyl diphosphate synthases with different subcellular localizations and their respective physiological roles in Oryza sativa%5BTitle%5D), 2010, J Exp Bot.
     + [A recruiting protein of geranylgeranyl diphosphate synthase controls metabolic flux toward chlorophyll biosynthesis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=A recruiting protein of geranylgeranyl diphosphate synthase controls metabolic flux toward chlorophyll biosynthesis in rice.%5BTitle%5D), 2017, Proc Natl Acad Sci U S A.

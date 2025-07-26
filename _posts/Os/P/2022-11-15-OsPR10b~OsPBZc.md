@@ -21,7 +21,13 @@ tags:
     + 87.79
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q2QNT0/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q2/AF-Q2QNT0-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q2/AF-Q2QNT0-F1.png))
+
+* **MolPhase score**
+    + LOC_Os12g36850.1: 0.0115
+
+* **MolPhaseResult**
+    + ![LOC_Os12g36850.1](https://ricepsp.github.io/pictures/LOC_Os12g/LOC_Os12g36850.1.png)
 
 * **Publication**  
     + [A novel rice PR10 protein, RSOsPR10, specifically induced in roots by biotic and abiotic stresses, possibly via the jasmonic acid signaling pathway](http://www.ncbi.nlm.nih.gov/pubmed?term=A novel rice PR10 protein, RSOsPR10, specifically induced in roots by biotic and abiotic stresses, possibly via the jasmonic acid signaling pathway%5BTitle%5D), 2004, Plant Cell Physiol.

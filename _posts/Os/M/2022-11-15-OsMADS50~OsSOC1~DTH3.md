@@ -21,6 +21,12 @@ tags: [heading date, floral, flower, flowering time, vegetative]
     + NA
 
 
+* **MolPhase score**
+    + LOC_Os03g03070.1: 0.7267151474952698
+
+* **MolPhaseResult**
+    + ![LOC_Os03g03070.1](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g03070.1.png)
+
 * **Publication**  
     + [Heading date gene, dth3 controlled late flowering in O. Glaberrima Steud. by down-regulating Ehd1](http://www.ncbi.nlm.nih.gov/pubmed?term=Heading date gene, dth3 controlled late flowering in O. Glaberrima Steud. by down-regulating Ehd1%5BTitle%5D), 2011, Plant Cell Rep.
     + [OsCO3, a CONSTANS-LIKE gene, controls flowering by negatively regulating the expression of FT-like genes under SD conditions in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsCO3, a CONSTANS-LIKE gene, controls flowering by negatively regulating the expression of FT-like genes under SD conditions in rice%5BTitle%5D), 2008, Planta.

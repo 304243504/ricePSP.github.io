@@ -21,6 +21,12 @@ tags: [meristem, transcription factor]
     + NA
 
 
+* **MolPhase score**
+    + LOC_Os02g46940.1: 0.9882
+
+* **MolPhaseResult**
+    + ![LOC_Os02g46940.1](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g46940.1.png)
+
 * **Publication**  
     + [Rice LHS1/OsMADS1 controls floret meristem specification by coordinated regulation of transcription factors and hormone signaling pathways](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice LHS1/OsMADS1 controls floret meristem specification by coordinated regulation of transcription factors and hormone signaling pathways%5BTitle%5D), 2013, Plant Physiol.
     + [14-3-3 proteins act as intracellular receptors for rice Hd3a florigen](http://www.ncbi.nlm.nih.gov/pubmed?term=14-3-3 proteins act as intracellular receptors for rice Hd3a florigen%5BTitle%5D), 2011, Nature.

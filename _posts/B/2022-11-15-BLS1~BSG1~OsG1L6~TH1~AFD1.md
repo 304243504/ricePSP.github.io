@@ -21,7 +21,13 @@ tags: [inflorescence, architecture, lemma, cell division, grain size, palea, gra
     + 71.58
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6K5X1/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6K5X1-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6K5X1-F1.png))
+
+* **MolPhase score**
+    + LOC_Os02g56610.1: 0.9944
+
+* **MolPhaseResult**
+    + ![LOC_Os02g56610.1](https://ricepsp.github.io/pictures/LOC_Os02g/LOC_Os02g56610.1.png)
 
 * **Publication**  
     + [BEAK LIKE SPIKELET1 is Required for Lateral Development of Lemma and Palea in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=BEAK LIKE SPIKELET1 is Required for Lateral Development of Lemma and Palea in Rice%5BTitle%5D), 2012, Plant Molecular Biology Reporter.

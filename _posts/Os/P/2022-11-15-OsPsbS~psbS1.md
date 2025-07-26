@@ -23,7 +23,15 @@ tags:
     + 75.38
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q943K1/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q9/AF-Q943K1-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q9/AF-Q943K1-F1.png))
+
+* **MolPhase score**
+    + LOC_Os01g64960.1: 0.2921
+    + LOC_Os01g64960.2: 0.1038
+
+* **MolPhaseResult**
+    + ![LOC_Os01g64960.1](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g64960.1.png)
+    + ![LOC_Os01g64960.2](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g64960.2.png)
 
 * **Publication**  
     + [Dependence of reaction center-type energy-dependent quenching on photosystem II antenna size](http://www.ncbi.nlm.nih.gov/pubmed?term=Dependence of reaction center-type energy-dependent quenching on photosystem II antenna size%5BTitle%5D), 2007, Biochim Biophys Acta.

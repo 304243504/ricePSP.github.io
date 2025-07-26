@@ -21,6 +21,12 @@ tags: [oxidative, photosynthesis,  ABA , ethylene, ABA, ethylene response, seedl
     + NA
 
 
+* **MolPhase score**
+    + LOC_Os11g36440.1: 0.1154
+
+* **MolPhaseResult**
+    + ![LOC_Os11g36440.1](https://ricepsp.github.io/pictures/LOC_Os11g/LOC_Os11g36440.1.png)
+
 * **Publication**  
     + [ZEBRA2, encoding a carotenoid isomerase, is involved in photoprotection in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=ZEBRA2, encoding a carotenoid isomerase, is involved in photoprotection in rice%5BTitle%5D), 2011, Plant Mol Biol.
     + [Mutations of genes in synthesis of the carotenoid precursors of ABA lead to pre-harvest sprouting and photo-oxidation in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Mutations of genes in synthesis of the carotenoid precursors of ABA lead to pre-harvest sprouting and photo-oxidation in rice%5BTitle%5D), 2008, Plant J.

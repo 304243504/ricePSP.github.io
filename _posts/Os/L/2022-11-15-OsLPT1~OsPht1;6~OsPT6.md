@@ -21,7 +21,13 @@ tags: [shoot, transporter,  pi , xylem, phosphate, root, lateral root]
     + 87.78
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q8H6H0/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8H6H0-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8H6H0-F1.png))
+
+* **MolPhase score**
+    + LOC_Os08g45000.1: 0.0233
+
+* **MolPhaseResult**
+    + ![LOC_Os08g45000.1](https://ricepsp.github.io/pictures/LOC_Os08g/LOC_Os08g45000.1.png)
 
 * **Publication**  
     + [OsMYB2P-1, an R2R3 MYB transcription factor, is involved in the regulation of phosphate-starvation responses and root architecture in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsMYB2P-1, an R2R3 MYB transcription factor, is involved in the regulation of phosphate-starvation responses and root architecture in rice%5BTitle%5D), 2012, Plant Physiol.

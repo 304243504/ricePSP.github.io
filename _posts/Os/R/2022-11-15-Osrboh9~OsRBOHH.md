@@ -25,7 +25,17 @@ tags:
     + 74.9
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q2QP56/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q2/AF-Q2QP56-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q2/AF-Q2QP56-F1.png))
+
+* **MolPhase score**
+    + LOC_Os12g35610.1: 0.4055
+    + LOC_Os12g35610.2: 0.2848
+    + LOC_Os12g35610.3: 0.4055
+
+* **MolPhaseResult**
+    + ![LOC_Os12g35610.1](https://ricepsp.github.io/pictures/LOC_Os12g/LOC_Os12g35610.1.png)
+    + ![LOC_Os12g35610.2](https://ricepsp.github.io/pictures/LOC_Os12g/LOC_Os12g35610.2.png)
+    + ![LOC_Os12g35610.3](https://ricepsp.github.io/pictures/LOC_Os12g/LOC_Os12g35610.3.png)
 
 * **Publication**  
     + [Phosphatidylinositol 3-kinase plays a vital role in regulation of rice seed vigor via altering NADPH oxidase activity](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphatidylinositol 3-kinase plays a vital role in regulation of rice seed vigor via altering NADPH oxidase activity%5BTitle%5D), 2012, PLoS One.

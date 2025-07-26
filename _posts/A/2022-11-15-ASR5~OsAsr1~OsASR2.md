@@ -21,7 +21,13 @@ tags: [vegetative, root, palea, growth, transcription factor, photosynthesis, te
     + 52.51
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q53JF7/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q5/AF-Q53JF7-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q5/AF-Q53JF7-F1.png))
+
+* **MolPhase score**
+    + LOC_Os11g06720.1: 0.1318
+
+* **MolPhaseResult**
+    + ![LOC_Os11g06720.1](https://ricepsp.github.io/pictures/LOC_Os11g/LOC_Os11g06720.1.png)
 
 * **Publication**  
     + [Structure, allelic diversity and selection of Asr genes, candidate for drought tolerance, in Oryza sativa L. and wild relatives](http://www.ncbi.nlm.nih.gov/pubmed?term=Structure, allelic diversity and selection of Asr genes, candidate for drought tolerance, in Oryza sativa L. and wild relatives%5BTitle%5D), 2010, Theor Appl Genet.
@@ -74,7 +80,7 @@ tags: [vegetative, root, palea, growth, transcription factor, photosynthesis, te
     + __Asr3~OsASR3__, __ASR5~OsAsr1~OsASR2__, [Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities](http://www.ncbi.nlm.nih.gov/pubmed?term=Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities%5BTitle%5D), Our data also showed that the overexpression of either OsASR1 or OsASR3 in transgenic rice plants increased their tolerance to drought and cold stress
     + __Asr3~OsASR3__, __ASR5~OsAsr1~OsASR2__, [Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities](http://www.ncbi.nlm.nih.gov/pubmed?term=Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities%5BTitle%5D), Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities
     + __ASR5~OsAsr1~OsASR2__, __Os2H16__, [OsASR2 regulates the expression of a defense-related gene, Os2H16, by targeting the GT-1 cis-element.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsASR2 regulates the expression of a defense-related gene, Os2H16, by targeting the GT-1 cis-element.%5BTitle%5D), OsASR2 regulates the expression of a defense-related gene, Os2H16, by targeting the GT-1 cis-element.
-    + __ASR5~OsAsr1~OsASR2__, __Os2H16__, [OsASR2 regulates the expression of a defense-related gene, Os2H16, by targeting the GT-1 cis-element.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsASR2 regulates the expression of a defense-related gene, Os2H16, by targeting the GT-1 cis-element.%5BTitle%5D),  Furthermore, we identified that OsASR2 was specifically bound to GT-1 and activated the expression of the target gene Os2H16, as well as GFP driven by the chimeric promoter of 2 ÃÂÃÂÃÂÃÂ GT-1-35S mini construct
+    + __ASR5~OsAsr1~OsASR2__, __Os2H16__, [OsASR2 regulates the expression of a defense-related gene, Os2H16, by targeting the GT-1 cis-element.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsASR2 regulates the expression of a defense-related gene, Os2H16, by targeting the GT-1 cis-element.%5BTitle%5D),  Furthermore, we identified that OsASR2 was specifically bound to GT-1 and activated the expression of the target gene Os2H16, as well as GFP driven by the chimeric promoter of 2 ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ GT-1-35S mini construct
 
 [//]: # * **Key figures**  
 

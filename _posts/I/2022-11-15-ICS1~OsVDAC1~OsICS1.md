@@ -27,7 +27,19 @@ tags: [defense, defense response,  sa , SA]
     + 94.85
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6K548/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6K548-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6K548-F1.png))
+
+* **MolPhase score**
+    + LOC_Os09g19734.1: 0.4459
+    + LOC_Os09g19734.2: 0.5574
+    + LOC_Os09g19734.3: 0.0083
+    + LOC_Os09g19734.4: 0.009
+
+* **MolPhaseResult**
+    + ![LOC_Os09g19734.1](https://ricepsp.github.io/pictures/LOC_Os09g/LOC_Os09g19734.1.png)
+    + ![LOC_Os09g19734.2](https://ricepsp.github.io/pictures/LOC_Os09g/LOC_Os09g19734.2.png)
+    + ![LOC_Os09g19734.3](https://ricepsp.github.io/pictures/LOC_Os09g/LOC_Os09g19734.3.png)
+    + ![LOC_Os09g19734.4](https://ricepsp.github.io/pictures/LOC_Os09g/LOC_Os09g19734.4.png)
 
 * **Publication**  
     + [Sequence analysis, transcriptional and posttranscriptional regulation of the rice vdac family](http://www.ncbi.nlm.nih.gov/pubmed?term=Sequence analysis, transcriptional and posttranscriptional regulation of the rice vdac family%5BTitle%5D), 2003, Biochim Biophys Acta.
@@ -46,7 +58,7 @@ tags: [defense, defense response,  sa , SA]
     + This indicates that OsWRKY6 can directly regulate OsICS1 expression and thereby increase SA concentrations
 
 * **Connection**  
-    + __ICS1~OsVDAC1~OsICS1__, __OsWRKY6__, [Molecular characterization of Oryza sativa WRKY6, which binds to W-box-like element 1 of the Oryza sativa pathogenesis-related PR 10a promoter and confers reduced susceptibility to pathogens.](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular characterization of Oryza sativa WRKY6, which binds to W-box-like element 1 of the Oryza sativa pathogenesis-related PR 10a promoter and confers reduced susceptibility to pathogens.%5BTitle%5D), OsWRKY6 directly bound to the OsICS1 promoter inÃÂÃÂÃÂÃÂ vivo
+    + __ICS1~OsVDAC1~OsICS1__, __OsWRKY6__, [Molecular characterization of Oryza sativa WRKY6, which binds to W-box-like element 1 of the Oryza sativa pathogenesis-related PR 10a promoter and confers reduced susceptibility to pathogens.](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular characterization of Oryza sativa WRKY6, which binds to W-box-like element 1 of the Oryza sativa pathogenesis-related PR 10a promoter and confers reduced susceptibility to pathogens.%5BTitle%5D), OsWRKY6 directly bound to the OsICS1 promoter inÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ vivo
     + __ICS1~OsVDAC1~OsICS1__, __OsWRKY6__, [Molecular characterization of Oryza sativa WRKY6, which binds to W-box-like element 1 of the Oryza sativa pathogenesis-related PR 10a promoter and confers reduced susceptibility to pathogens.](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular characterization of Oryza sativa WRKY6, which binds to W-box-like element 1 of the Oryza sativa pathogenesis-related PR 10a promoter and confers reduced susceptibility to pathogens.%5BTitle%5D), This indicates that OsWRKY6 can directly regulate OsICS1 expression and thereby increase SA concentrations
     + __ICS1~OsVDAC1~OsICS1__, __OsWRKY6__, [Molecular characterization of Oryza sativa WRKY6, which binds to W-box-like element 1 of the Oryza sativa pathogenesis-related PR 10a promoter and confers reduced susceptibility to pathogens.](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular characterization of Oryza sativa WRKY6, which binds to W-box-like element 1 of the Oryza sativa pathogenesis-related PR 10a promoter and confers reduced susceptibility to pathogens.%5BTitle%5D), Our results suggest that OsWRKY6 positively regulates defense responses through activation of OsICS1 expression and OsWRKY6 stabilization
 

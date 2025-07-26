@@ -27,7 +27,19 @@ tags: [shoot,  pi , transporter, plasma membrane, Pi]
     + 78.39
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q658H5/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q658H5-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q658H5-F1.png))
+
+* **MolPhase score**
+    + LOC_Os06g03860.1: 0.0705
+    + LOC_Os06g03860.2: 0.0092
+    + LOC_Os06g03860.3: 0.0469
+    + LOC_Os06g03860.4: 0.0233
+
+* **MolPhaseResult**
+    + ![LOC_Os06g03860.1](https://ricepsp.github.io/pictures/LOC_Os06g/LOC_Os06g03860.1.png)
+    + ![LOC_Os06g03860.2](https://ricepsp.github.io/pictures/LOC_Os06g/LOC_Os06g03860.2.png)
+    + ![LOC_Os06g03860.3](https://ricepsp.github.io/pictures/LOC_Os06g/LOC_Os06g03860.3.png)
+    + ![LOC_Os06g03860.4](https://ricepsp.github.io/pictures/LOC_Os06g/LOC_Os06g03860.4.png)
 
 * **Publication**  
     + [Functional characterization of the rice SPX-MFS family reveals a key role of OsSPX-MFS1 in controlling phosphate homeostasis in leaves](http://www.ncbi.nlm.nih.gov/pubmed?term=Functional characterization of the rice SPX-MFS family reveals a key role of OsSPX-MFS1 in controlling phosphate homeostasis in leaves%5BTitle%5D), 2012, New Phytol.

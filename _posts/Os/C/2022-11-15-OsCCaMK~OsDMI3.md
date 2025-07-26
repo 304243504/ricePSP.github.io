@@ -21,7 +21,13 @@ tags: [root, defense,  ABA , oxidative, ethylene, nitrogen]
     + 73.17
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6AVM3/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6AVM3-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6AVM3-F1.png))
+
+* **MolPhase score**
+    + LOC_Os05g41090.1: 0.0057
+
+* **MolPhaseResult**
+    + ![LOC_Os05g41090.1](https://ricepsp.github.io/pictures/LOC_Os05g/LOC_Os05g41090.1.png)
 
 * **Publication**  
     + [A rice gene for microbial symbiosis, Oryza sativa CCaMK, reduces CH4 flux in a paddy field with low nitrogen input](http://www.ncbi.nlm.nih.gov/pubmed?term=A rice gene for microbial symbiosis, Oryza sativa CCaMK, reduces CH4 flux in a paddy field with low nitrogen input%5BTitle%5D), 2014, Appl Environ Microbiol.

@@ -21,7 +21,13 @@ tags: [seedling, arsenite, seed, flower, vegetative, chloroplast, seed developme
     + 84.22
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6F2Y7/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6F2Y7-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6F2Y7-F1.png))
+
+* **MolPhase score**
+    + LOC_Os05g44340.1: 0.1847
+
+* **MolPhaseResult**
+    + ![LOC_Os05g44340.1](https://ricepsp.github.io/pictures/LOC_Os05g/LOC_Os05g44340.1.png)
 
 * **Publication**  
     + [Molecular characterization of rice hsp101: complementation of yeast hsp104 mutation by disaggregation of protein granules and differential expression in indica and japonica rice types](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular characterization of rice hsp101: complementation of yeast hsp104 mutation by disaggregation of protein granules and differential expression in indica and japonica rice types%5BTitle%5D), 2003, Plant Mol Biol.

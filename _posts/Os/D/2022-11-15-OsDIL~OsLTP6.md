@@ -23,7 +23,15 @@ tags: [drought, pollen,  ABA , anther, drought tolerance, fertility, anther deve
     + 80.32
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q33B26/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q3/AF-Q33B26-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q3/AF-Q33B26-F1.png))
+
+* **MolPhase score**
+    + LOC_Os10g05720.1: 0.0672
+    + LOC_Os10g05720.2: 0.0228
+
+* **MolPhaseResult**
+    + ![LOC_Os10g05720.1](https://ricepsp.github.io/pictures/LOC_Os10g/LOC_Os10g05720.1.png)
+    + ![LOC_Os10g05720.2](https://ricepsp.github.io/pictures/LOC_Os10g/LOC_Os10g05720.2.png)
 
 * **Publication**  
     + [The rice OsLTP6 gene promoter directs anther-specific expression by a combination of positive and negative regulatory elements](http://www.ncbi.nlm.nih.gov/pubmed?term=The rice OsLTP6 gene promoter directs anther-specific expression by a combination of positive and negative regulatory elements%5BTitle%5D), 2013, Planta.

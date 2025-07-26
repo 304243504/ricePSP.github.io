@@ -21,6 +21,12 @@ tags:
     + NA
 
 
+* **MolPhase score**
+    + LOC_Os01g39960.1: 0.0273
+
+* **MolPhaseResult**
+    + ![LOC_Os01g39960.1](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g39960.1.png)
+
 * **Publication**  
     + [Reaction specificities of the epsilon-ionone-forming lycopene cyclase from rice Oryza sativa elucidated in vitro](http://www.ncbi.nlm.nih.gov/pubmed?term=Reaction specificities of the epsilon-ionone-forming lycopene cyclase from rice Oryza sativa elucidated in vitro%5BTitle%5D), 2012, FEBS Lett.
 

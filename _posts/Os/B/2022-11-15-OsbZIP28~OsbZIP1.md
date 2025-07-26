@@ -27,7 +27,19 @@ tags: [root, salicylic acid, jasmonic, jasmonic acid, transcription factor, defe
     + 83.67
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6IVC3/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6IVC3-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6IVC3-F1.png))
+
+* **MolPhase score**
+    + LOC_Os03g20310.1: 0.2487
+    + LOC_Os03g20310.2: 0.2487
+    + LOC_Os03g20310.3: 0.2487
+    + LOC_Os03g20310.4: 0.2487
+
+* **MolPhaseResult**
+    + ![LOC_Os03g20310.1](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g20310.1.png)
+    + ![LOC_Os03g20310.2](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g20310.2.png)
+    + ![LOC_Os03g20310.3](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g20310.3.png)
+    + ![LOC_Os03g20310.4](https://ricepsp.github.io/pictures/LOC_Os03g/LOC_Os03g20310.4.png)
 
 * **Publication**  
     + [Identification of a novel rice bZIP-type transcription factor gene,OsbZIP1, involved in response to infection ofMagnaporthe grisea](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification of a novel rice bZIP-type transcription factor gene,OsbZIP1, involved in response to infection ofMagnaporthe grisea%5BTitle%5D), 2012, Plant Molecular Biology Reporter.

@@ -21,7 +21,13 @@ tags: [root, drought, salt]
     + 76.93
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/B6UV92/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/B/AF-B6UV92-F1.png)
+    + ![image](https://ricepsp.github.io/images/B/AF-B6UV92-F1.png))
+
+* **MolPhase score**
+    + LOC_Os09g38320.1: 0.0301
+
+* **MolPhaseResult**
+    + ![LOC_Os09g38320.1](https://ricepsp.github.io/pictures/LOC_Os09g/LOC_Os09g38320.1.png)
 
 * **Publication**  
     + [A GH3 family member, OsGH3-2, modulates auxin and abscisic acid levels and differentially affects drought and cold tolerance in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=A GH3 family member, OsGH3-2, modulates auxin and abscisic acid levels and differentially affects drought and cold tolerance in rice%5BTitle%5D), 2012, J Exp Bot.

@@ -27,6 +27,18 @@ tags: [salt, salt tolerance, seedling, root]
     + NA
 
 
+* **MolPhase score**
+    + LOC_Os01g45274.1: 0.4642
+    + LOC_Os01g45274.2: 0.7881
+    + LOC_Os01g45274.3: 0.7881
+    + LOC_Os01g45274.4: 0.0075
+
+* **MolPhaseResult**
+    + ![LOC_Os01g45274.1](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g45274.1.png)
+    + ![LOC_Os01g45274.2](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g45274.2.png)
+    + ![LOC_Os01g45274.3](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g45274.3.png)
+    + ![LOC_Os01g45274.4](https://ricepsp.github.io/pictures/LOC_Os01g/LOC_Os01g45274.4.png)
+
 * **Publication**  
     + [Expression of a carbonic anhydrase gene is induced by environmental stresses in rice Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=Expression of a carbonic anhydrase gene is induced by environmental stresses in rice Oryza sativa L.%5BTitle%5D), 2007, Biotechnol Lett.
     + [Absence of OsbetaCA1 causes CO2 deficit and affects leaf photosynthesis and stomatal response to CO2 in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Absence of OsbetaCA1 causes CO2 deficit and affects leaf photosynthesis and stomatal response to CO2 in rice.%5BTitle%5D), 2017, Plant J.

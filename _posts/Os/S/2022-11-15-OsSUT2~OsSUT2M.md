@@ -25,7 +25,17 @@ tags: [leaf, grain, panicle, spikelet, root, growth, transporter, tiller, seed, 
     + 86.22
 
 * **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0ILJ3/entry#structure)**
-    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0ILJ3-F1.png)
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0ILJ3-F1.png))
+
+* **MolPhase score**
+    + LOC_Os12g44380.1: 0.3695
+    + LOC_Os12g44380.2: 0.071
+    + LOC_Os12g44380.3: 0.162
+
+* **MolPhaseResult**
+    + ![LOC_Os12g44380.1](https://ricepsp.github.io/pictures/LOC_Os12g/LOC_Os12g44380.1.png)
+    + ![LOC_Os12g44380.2](https://ricepsp.github.io/pictures/LOC_Os12g/LOC_Os12g44380.2.png)
+    + ![LOC_Os12g44380.3](https://ricepsp.github.io/pictures/LOC_Os12g/LOC_Os12g44380.3.png)
 
 * **Publication**  
     + [Sugar transporters involved in flowering and grain development of rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Sugar transporters involved in flowering and grain development of rice%5BTitle%5D), 2001, Journal of Plant Physiology.
